@@ -1,0 +1,150 @@
+Results for original_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0006802721088435374
+  Training Time (s): 4.309059143066406
+  Prediction Time (s): 0.003997325897216797
+  Memory Usage During Training (MB): 1.84375
+  Memory Usage During Prediction (MB): 0.05859375
+  Best Parameters: {'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 100}
+Results for original_LogisticRegression_floor:
+  Mean Absolute Error: 0.0006802721088435374
+  Training Time (s): 0.0829167366027832
+  Prediction Time (s): 0.00101470947265625
+  Memory Usage During Training (MB): 0.59375
+  Memory Usage During Prediction (MB): 0
+  Best Parameters: {'C': 0.01}
+Results for original_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0020408163265306124
+  Training Time (s): 0.06354570388793945
+  Prediction Time (s): 0.0010001659393310547
+  Memory Usage During Training (MB): 0
+  Memory Usage During Prediction (MB): 0
+  Best Parameters: {'max_depth': 15, 'min_samples_split': 2}
+Results for original_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0013605442176870747
+  Training Time (s): 3.6535933017730713
+  Prediction Time (s): 0.002035856246948242
+  Memory Usage During Training (MB): 0.25
+  Memory Usage During Prediction (MB): 0.09765625
+  Best Parameters: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+Results for original_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0006802721088435374
+  Training Time (s): 0.2800142765045166
+  Prediction Time (s): 0.11036014556884766
+  Memory Usage During Training (MB): 0
+  Memory Usage During Prediction (MB): 0.03515625
+  Best Parameters: {'n_neighbors': 3, 'weights': 'uniform'}
+Results for original_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 1.0099168366198021
+  Training Time (s): 13.192193031311035
+  Prediction Time (s): 0.036943912506103516
+  Memory Usage During Training (MB): 26.09765625
+  Memory Usage During Prediction (MB): 0
+  Best Parameters: {'estimator__max_depth': 20, 'estimator__min_samples_split': 2, 'estimator__n_estimators': 150}
+Results for original_LinearRegression_coord:
+  Mean Distance Error (meters): 4.379806050479243
+  Training Time (s): 0.032273292541503906
+  Prediction Time (s): 0.0019245147705078125
+  Memory Usage During Training (MB): 0
+  Memory Usage During Prediction (MB): 0.01953125
+  Best Parameters: {'estimator__fit_intercept': True}
+Results for original_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 0.9552068159502071
+  Training Time (s): 0.10217022895812988
+  Prediction Time (s): 0.0016968250274658203
+  Memory Usage During Training (MB): 1.4375
+  Memory Usage During Prediction (MB): 0.08203125
+  Best Parameters: {'estimator__max_depth': 20, 'estimator__min_samples_split': 2}
+Results for original_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 0.9481305327302572
+  Training Time (s): 8.889251708984375
+  Prediction Time (s): 0.011653900146484375
+  Memory Usage During Training (MB): 1.28125
+  Memory Usage During Prediction (MB): 0.05078125
+  Best Parameters: {'estimator__learning_rate': 0.1, 'estimator__max_depth': 7, 'estimator__n_estimators': 200}
+Results for original_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 0.9651722672858972
+  Training Time (s): 0.222489595413208
+  Prediction Time (s): 0.07232999801635742
+  Memory Usage During Training (MB): 0
+  Memory Usage During Prediction (MB): 0.9921875
+  Best Parameters: {'n_neighbors': 7, 'weights': 'distance'}
+Results for orignal_RandomForestClassifier_floor:
+  Predictions: [0 0 0 ... 1 1 1]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0056514739990234375
+  Memory Usage During Prediction (MB): 0
+Results for orignal_LogisticRegression_floor:
+  Predictions: [0 0 0 ... 1 1 1]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.002517223358154297
+  Memory Usage During Prediction (MB): 0.67578125
+Results for orignal_DecisionTreeClassifier_floor:
+  Predictions: [0 0 0 ... 1 1 1]
+  Mean Absolute Error: 0.000612619971411068
+  Prediction Time (s): 0.0
+  Memory Usage During Prediction (MB): 0
+Results for orignal_GradientBoostingClassifier_floor:
+  Predictions: [0 0 0 ... 1 1 1]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.002871990203857422
+  Memory Usage During Prediction (MB): 0.36328125
+Results for orignal_KNeighborsClassifier_floor:
+  Predictions: [0 0 0 ... 1 1 1]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.2902517318725586
+  Memory Usage During Prediction (MB): 1.28515625
+Results for original_RandomForestRegressor_coord:
+  Predictions: [[-9.30434820e-03  0.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00]
+ ...
+ [ 8.98191567e+00  1.73839996e+01]
+ [ 8.34586680e+00  1.72359995e+01]
+ [ 8.34586680e+00  1.72359995e+01]]
+  Mean Distance Error (meters): 0.6148582843988084
+  Prediction Time (s): 0.07779169082641602
+  Memory Usage During Prediction (MB): 0.5234375
+Results for original_LinearRegression_coord:
+  Predictions: [[-3.34690669  7.64833457]
+ [-5.36184343  7.70675548]
+ [-5.36184343  7.70675548]
+ ...
+ [ 2.54774123 18.30587514]
+ [ 1.7092162  17.5677849 ]
+ [ 1.7092162  17.5677849 ]]
+  Mean Distance Error (meters): 4.289621194336279
+  Prediction Time (s): 0.0046656131744384766
+  Memory Usage During Prediction (MB): 0.859375
+Results for original_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.41002465966980717
+  Prediction Time (s): 0.001990079879760742
+  Memory Usage During Prediction (MB): 0.3359375
+Results for original_GradientBoostingRegressor_coord:
+  Predictions: [[ 0.0544974   0.1451768 ]
+ [-0.07085494  0.04684654]
+ [-0.07085494  0.04684654]
+ ...
+ [ 9.20328538 17.13437713]
+ [ 9.19118827 17.19554119]
+ [ 9.19118827 17.19554119]]
+  Mean Distance Error (meters): 0.5447415567336547
+  Prediction Time (s): 0.025912761688232422
+  Memory Usage During Prediction (MB): 0.57421875
+Results for original_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.2978818785256677
+  Prediction Time (s): 0.43129706382751465
+  Memory Usage During Prediction (MB): 2.61328125

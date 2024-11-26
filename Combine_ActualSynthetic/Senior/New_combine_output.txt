@@ -1,0 +1,3780 @@
+0.9_LogisticRegressionResults for actual_ml_0.9_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 3.8678674697875977
+  Prediction Time (s): 0.004002094268798828
+  Memory Usage During Training (MB): 1.1796875
+  Memory Usage During Prediction (MB): 0.02734375
+Results for actual_ml_0.9_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.09585976600646973
+  Prediction Time (s): 0.0020020008087158203
+  Memory Usage During Training (MB): 0.3515625
+  Memory Usage During Prediction (MB): 0.0078125
+Results for actual_ml_0.9_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.003401360544217687
+  Training Time (s): 0.07765507698059082
+  Prediction Time (s): 0.000949859619140625
+  Memory Usage During Training (MB): 0.00390625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.9_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 5.255338191986084
+  Prediction Time (s): 0.0020055770874023438
+  Memory Usage During Training (MB): 0.36328125
+  Memory Usage During Prediction (MB): 0.03125
+Results for actual_ml_0.9_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.2605259418487549
+  Prediction Time (s): 0.26216626167297363
+  Memory Usage During Training (MB): 0.0078125
+  Memory Usage During Prediction (MB): -0.7109375
+Results for actual_ml_0.9_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 1.0982296536429785
+  Training Time (s): 18.515889406204224
+  Prediction Time (s): 0.025156259536743164
+  Memory Usage During Training (MB): 21.375
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_ml_0.9_LinearRegression_coord:
+  Mean Distance Error (meters): 4.201668013551345
+  Training Time (s): 0.029812335968017578
+  Prediction Time (s): 0.0010006427764892578
+  Memory Usage During Training (MB): -20.8984375
+  Memory Usage During Prediction (MB): 0.03515625
+Results for actual_ml_0.9_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 1.1392596045440444
+  Training Time (s): 0.11866974830627441
+  Prediction Time (s): 0.0009996891021728516
+  Memory Usage During Training (MB): 2.59765625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.9_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 1.0685319867557719
+  Training Time (s): 13.306498050689697
+  Prediction Time (s): 0.013765096664428711
+  Memory Usage During Training (MB): 1.59765625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.9_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 1.0187463303232713
+  Training Time (s): 0.0734097957611084
+  Prediction Time (s): 0.09357523918151855
+  Memory Usage During Training (MB): -7.0
+  Memory Usage During Prediction (MB): 1.16015625
+Results for actual_ml_0.8_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 1.7438645362854004
+  Prediction Time (s): 0.0030736923217773438
+  Memory Usage During Training (MB): 1.16015625
+  Memory Usage During Prediction (MB): 0.1171875
+Results for actual_ml_0.8_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.09002900123596191
+  Prediction Time (s): 0.0009999275207519531
+  Memory Usage During Training (MB): -0.16015625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.8_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0027210884353741495
+  Training Time (s): 0.07753109931945801
+  Prediction Time (s): 0.0
+  Memory Usage During Training (MB): 0.01171875
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.8_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 6.712989330291748
+  Prediction Time (s): 0.002001523971557617
+  Memory Usage During Training (MB): 0.28515625
+  Memory Usage During Prediction (MB): 0.11328125
+Results for actual_ml_0.8_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.0705406665802002
+  Prediction Time (s): 0.0939640998840332
+  Memory Usage During Training (MB): 0.00390625
+  Memory Usage During Prediction (MB): -0.90234375
+Results for actual_ml_0.8_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 1.0694083095338178
+  Training Time (s): 26.35009503364563
+  Prediction Time (s): 0.09376740455627441
+  Memory Usage During Training (MB): 51.1640625
+  Memory Usage During Prediction (MB): 0.03125
+Results for actual_ml_0.8_LinearRegression_coord:
+  Mean Distance Error (meters): 4.060952336145102
+  Training Time (s): 0.048972368240356445
+  Prediction Time (s): 0.0029969215393066406
+  Memory Usage During Training (MB): -52.94921875
+  Memory Usage During Prediction (MB): 0.03515625
+Results for actual_ml_0.8_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 1.1284897346284652
+  Training Time (s): 0.1948862075805664
+  Prediction Time (s): 0.0027399063110351562
+  Memory Usage During Training (MB): 3.01953125
+  Memory Usage During Prediction (MB): 0.03515625
+Results for actual_ml_0.8_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 1.0520929692335361
+  Training Time (s): 19.067726373672485
+  Prediction Time (s): 0.017500877380371094
+  Memory Usage During Training (MB): 2.62890625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.8_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 0.9649210755556662
+  Training Time (s): 0.08885455131530762
+  Prediction Time (s): 0.061064720153808594
+  Memory Usage During Training (MB): -7.359375
+  Memory Usage During Prediction (MB): 3.99609375
+Results for actual_ml_0.7_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 2.396655797958374
+  Prediction Time (s): 0.012068510055541992
+  Memory Usage During Training (MB): 2.19921875
+  Memory Usage During Prediction (MB): 0.12890625
+Results for actual_ml_0.7_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.10537958145141602
+  Prediction Time (s): 0.0010001659393310547
+  Memory Usage During Training (MB): -0.34375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.7_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0020408163265306124
+  Training Time (s): 0.09195232391357422
+  Prediction Time (s): 0.0
+  Memory Usage During Training (MB): 0.47265625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.7_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 8.54446268081665
+  Prediction Time (s): 0.001985311508178711
+  Memory Usage During Training (MB): 0.3515625
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_0.7_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.08000850677490234
+  Prediction Time (s): 0.09920382499694824
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): -1.9375
+Results for actual_ml_0.7_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 1.0569585940153772
+  Training Time (s): 32.4923369884491
+  Prediction Time (s): 0.061675071716308594
+  Memory Usage During Training (MB): 64.078125
+  Memory Usage During Prediction (MB): 0.01953125
+Results for actual_ml_0.7_LinearRegression_coord:
+  Mean Distance Error (meters): 3.8892414802503743
+  Training Time (s): 0.044985055923461914
+  Prediction Time (s): 0.0019991397857666016
+  Memory Usage During Training (MB): -68.21875
+  Memory Usage During Prediction (MB): 0.01953125
+Results for actual_ml_0.7_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 1.4156982439147552
+  Training Time (s): 0.19844794273376465
+  Prediction Time (s): 0.002000093460083008
+  Memory Usage During Training (MB): 2.96484375
+  Memory Usage During Prediction (MB): 0.1015625
+Results for actual_ml_0.7_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 1.0413887425975041
+  Training Time (s): 25.70207667350769
+  Prediction Time (s): 0.011047124862670898
+  Memory Usage During Training (MB): 2.60546875
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.7_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 0.9973397947415521
+  Training Time (s): 0.07933950424194336
+  Prediction Time (s): 0.09410214424133301
+  Memory Usage During Training (MB): -4.1171875
+  Memory Usage During Prediction (MB): 1.62890625
+Results for actual_ml_0.6_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 2.3674795627593994
+  Prediction Time (s): 0.007992029190063477
+  Memory Usage During Training (MB): 2.2890625
+  Memory Usage During Prediction (MB): 0.109375
+Results for actual_ml_0.6_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.08791756629943848
+  Prediction Time (s): 0.0
+  Memory Usage During Training (MB): -0.3359375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.6_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0027210884353741495
+  Training Time (s): 0.09498810768127441
+  Prediction Time (s): 0.0010004043579101562
+  Memory Usage During Training (MB): 0.48828125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.6_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 9.53810429573059
+  Prediction Time (s): 0.002009153366088867
+  Memory Usage During Training (MB): 0.265625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.6_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.08067893981933594
+  Prediction Time (s): 0.12644076347351074
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): -1.56640625
+Results for actual_ml_0.6_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 1.0089337645687924
+  Training Time (s): 35.92184114456177
+  Prediction Time (s): 0.04245567321777344
+  Memory Usage During Training (MB): 51.48828125
+  Memory Usage During Prediction (MB): 0.0078125
+Results for actual_ml_0.6_LinearRegression_coord:
+  Mean Distance Error (meters): 3.724108318809784
+  Training Time (s): 0.04377555847167969
+  Prediction Time (s): 0.0019922256469726562
+  Memory Usage During Training (MB): -53.19140625
+  Memory Usage During Prediction (MB): 0.02734375
+Results for actual_ml_0.6_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 1.3667756120078451
+  Training Time (s): 0.18164491653442383
+  Prediction Time (s): 0.001995563507080078
+  Memory Usage During Training (MB): 2.6953125
+  Memory Usage During Prediction (MB): 0.0078125
+Results for actual_ml_0.6_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 0.9530585031757876
+  Training Time (s): 25.336575508117676
+  Prediction Time (s): 0.008760929107666016
+  Memory Usage During Training (MB): 1.24609375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.6_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 0.9589072668977406
+  Training Time (s): 0.06969261169433594
+  Prediction Time (s): 0.08888030052185059
+  Memory Usage During Training (MB): -2.6484375
+  Memory Usage During Prediction (MB): 3.484375
+Results for actual_ml_0.5_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 2.1583127975463867
+  Prediction Time (s): 0.0038299560546875
+  Memory Usage During Training (MB): -12.55078125
+  Memory Usage During Prediction (MB): 0.13671875
+Results for actual_ml_0.5_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.07937097549438477
+  Prediction Time (s): 0.0014595985412597656
+  Memory Usage During Training (MB): 2.62890625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.5_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0020408163265306124
+  Training Time (s): 0.08037590980529785
+  Prediction Time (s): 0.0010020732879638672
+  Memory Usage During Training (MB): 0.26171875
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.5_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0006802721088435374
+  Training Time (s): 10.192019939422607
+  Prediction Time (s): 0.0020096302032470703
+  Memory Usage During Training (MB): 0.1484375
+  Memory Usage During Prediction (MB): 0.12109375
+Results for actual_ml_0.5_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.06897425651550293
+  Prediction Time (s): 0.09372115135192871
+  Memory Usage During Training (MB): 0.01171875
+  Memory Usage During Prediction (MB): 0.68359375
+Results for actual_ml_0.5_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 0.9486096950029775
+  Training Time (s): 41.30928158760071
+  Prediction Time (s): 0.058984994888305664
+  Memory Usage During Training (MB): 71.66015625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.5_LinearRegression_coord:
+  Mean Distance Error (meters): 3.5223383320196096
+  Training Time (s): 0.03394031524658203
+  Prediction Time (s): 0.0019578933715820312
+  Memory Usage During Training (MB): -74.3828125
+  Memory Usage During Prediction (MB): 0.01953125
+Results for actual_ml_0.5_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 1.1088143542026667
+  Training Time (s): 0.20788192749023438
+  Prediction Time (s): 0.0010466575622558594
+  Memory Usage During Training (MB): 2.671875
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.5_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 0.985092848960107
+  Training Time (s): 30.103328466415405
+  Prediction Time (s): 0.010733366012573242
+  Memory Usage During Training (MB): 2.25390625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.5_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 0.9208155300431539
+  Training Time (s): 0.06922245025634766
+  Prediction Time (s): 0.08361124992370605
+  Memory Usage During Training (MB): -4.17578125
+  Memory Usage During Prediction (MB): 1.3203125
+Results for actual_ml_0.4_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 2.2455289363861084
+  Prediction Time (s): 0.0036716461181640625
+  Memory Usage During Training (MB): -11.4609375
+  Memory Usage During Prediction (MB): 0.140625
+Results for actual_ml_0.4_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.07970643043518066
+  Prediction Time (s): 0.0010068416595458984
+  Memory Usage During Training (MB): 2.515625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.4_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0020408163265306124
+  Training Time (s): 0.07859301567077637
+  Prediction Time (s): 0.0
+  Memory Usage During Training (MB): 0.23828125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.4_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0006802721088435374
+  Training Time (s): 9.976680994033813
+  Prediction Time (s): 0.00099945068359375
+  Memory Usage During Training (MB): 0.828125
+  Memory Usage During Prediction (MB): 0.1015625
+Results for actual_ml_0.4_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.06764006614685059
+  Prediction Time (s): 0.09304475784301758
+  Memory Usage During Training (MB): 0.078125
+  Memory Usage During Prediction (MB): -0.80859375
+Results for actual_ml_0.4_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 0.8872067380643592
+  Training Time (s): 45.393059730529785
+  Prediction Time (s): 0.08418893814086914
+  Memory Usage During Training (MB): 73.76171875
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_ml_0.4_LinearRegression_coord:
+  Mean Distance Error (meters): 3.252580509966943
+  Training Time (s): 0.05238509178161621
+  Prediction Time (s): 0.003007650375366211
+  Memory Usage During Training (MB): -79.37890625
+  Memory Usage During Prediction (MB): 0.0234375
+Results for actual_ml_0.4_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 1.3659678107247528
+  Training Time (s): 0.23265790939331055
+  Prediction Time (s): 0.0010018348693847656
+  Memory Usage During Training (MB): 2.72265625
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_0.4_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 0.9287891389110224
+  Training Time (s): 33.848814487457275
+  Prediction Time (s): 0.010731935501098633
+  Memory Usage During Training (MB): 2.90234375
+  Memory Usage During Prediction (MB): 0.05078125
+Results for actual_ml_0.4_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 0.8653165339637626
+  Training Time (s): 0.06912398338317871
+  Prediction Time (s): 0.08715248107910156
+  Memory Usage During Training (MB): -3.80078125
+  Memory Usage During Prediction (MB): 1.00390625
+Results for actual_ml_0.3_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 2.3037142753601074
+  Prediction Time (s): 0.003999948501586914
+  Memory Usage During Training (MB): -11.32421875
+  Memory Usage During Prediction (MB): 0.13671875
+Results for actual_ml_0.3_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.05450725555419922
+  Prediction Time (s): 0.0
+  Memory Usage During Training (MB): 2.03125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.3_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0027210884353741495
+  Training Time (s): 0.06799054145812988
+  Prediction Time (s): 0.0010006427764892578
+  Memory Usage During Training (MB): 0.2421875
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.3_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0006802721088435374
+  Training Time (s): 10.18554973602295
+  Prediction Time (s): 0.0019974708557128906
+  Memory Usage During Training (MB): 0.390625
+  Memory Usage During Prediction (MB): 0.12109375
+Results for actual_ml_0.3_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.06745553016662598
+  Prediction Time (s): 0.11359691619873047
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 0.03125
+Results for actual_ml_0.3_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 0.752926800646875
+  Training Time (s): 47.99059987068176
+  Prediction Time (s): 0.05691862106323242
+  Memory Usage During Training (MB): 78.2578125
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_ml_0.3_LinearRegression_coord:
+  Mean Distance Error (meters): 2.9919565138061825
+  Training Time (s): 0.0324406623840332
+  Prediction Time (s): 0.0020389556884765625
+  Memory Usage During Training (MB): -82.203125
+  Memory Usage During Prediction (MB): 0.01953125
+Results for actual_ml_0.3_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 1.2429568804446396
+  Training Time (s): 0.21794795989990234
+  Prediction Time (s): 0.0009992122650146484
+  Memory Usage During Training (MB): 2.68359375
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_0.3_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 0.7876212618624826
+  Training Time (s): 37.76104378700256
+  Prediction Time (s): 0.01062917709350586
+  Memory Usage During Training (MB): 2.01171875
+  Memory Usage During Prediction (MB): 0.046875
+Results for actual_ml_0.3_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 0.7534560947678105
+  Training Time (s): 0.06832647323608398
+  Prediction Time (s): 0.0879061222076416
+  Memory Usage During Training (MB): -3.94140625
+  Memory Usage During Prediction (MB): 0.16796875
+Results for actual_ml_0.2_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 2.334217071533203
+  Prediction Time (s): 0.0040225982666015625
+  Memory Usage During Training (MB): -8.66015625
+  Memory Usage During Prediction (MB): 0.13671875
+Results for actual_ml_0.2_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.05509066581726074
+  Prediction Time (s): 0.0010080337524414062
+  Memory Usage During Training (MB): 2.03515625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.2_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0013605442176870747
+  Training Time (s): 0.07867026329040527
+  Prediction Time (s): 0.001005411148071289
+  Memory Usage During Training (MB): 0.2578125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.2_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 9.99678111076355
+  Prediction Time (s): 0.0009226799011230469
+  Memory Usage During Training (MB): 0.3671875
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_0.2_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.06746101379394531
+  Prediction Time (s): 0.10378241539001465
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 0.046875
+Results for actual_ml_0.2_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 0.6158348201953414
+  Training Time (s): 46.66844177246094
+  Prediction Time (s): 0.028434276580810547
+  Memory Usage During Training (MB): 38.8046875
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.2_LinearRegression_coord:
+  Mean Distance Error (meters): 2.603784412522117
+  Training Time (s): 0.03139638900756836
+  Prediction Time (s): 0.001994609832763672
+  Memory Usage During Training (MB): -42.921875
+  Memory Usage During Prediction (MB): 0.0234375
+Results for actual_ml_0.2_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 1.0891078297733365
+  Training Time (s): 0.23532867431640625
+  Prediction Time (s): 0.0011470317840576172
+  Memory Usage During Training (MB): 2.69140625
+  Memory Usage During Prediction (MB): 0.1015625
+Results for actual_ml_0.2_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 0.6669168838182132
+  Training Time (s): 37.563446283340454
+  Prediction Time (s): 0.0060842037200927734
+  Memory Usage During Training (MB): 0.8125
+  Memory Usage During Prediction (MB): 0.1484375
+Results for actual_ml_0.2_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 0.6413194298712267
+  Training Time (s): 0.05830097198486328
+  Prediction Time (s): 0.09867000579833984
+  Memory Usage During Training (MB): -9.2109375
+  Memory Usage During Prediction (MB): 2.87109375
+Results for actual_ml_0.1_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 2.332350254058838
+  Prediction Time (s): 0.002999544143676758
+  Memory Usage During Training (MB): -10.96875
+  Memory Usage During Prediction (MB): 0.1328125
+Results for actual_ml_0.1_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.053289175033569336
+  Prediction Time (s): 0.0009922981262207031
+  Memory Usage During Training (MB): 2.5078125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.1_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.07974553108215332
+  Prediction Time (s): 0.0009949207305908203
+  Memory Usage During Training (MB): 0.265625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.1_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 10.618438959121704
+  Prediction Time (s): 0.0019812583923339844
+  Memory Usage During Training (MB): 0.14453125
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_0.1_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.06905508041381836
+  Prediction Time (s): 0.10024309158325195
+  Memory Usage During Training (MB): 0.01171875
+  Memory Usage During Prediction (MB): -0.23828125
+Results for actual_ml_0.1_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 0.4539839040435699
+  Training Time (s): 49.86823868751526
+  Prediction Time (s): 0.029072999954223633
+  Memory Usage During Training (MB): 39.24609375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.1_LinearRegression_coord:
+  Mean Distance Error (meters): 2.3423964050647377
+  Training Time (s): 0.11866140365600586
+  Prediction Time (s): 0.0020008087158203125
+  Memory Usage During Training (MB): -44.33203125
+  Memory Usage During Prediction (MB): 0.0234375
+Results for actual_ml_0.1_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 0.6137210081767964
+  Training Time (s): 0.28186917304992676
+  Prediction Time (s): 0.003619670867919922
+  Memory Usage During Training (MB): 2.796875
+  Memory Usage During Prediction (MB): 0.1015625
+Results for actual_ml_0.1_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 0.6240675259958041
+  Training Time (s): 43.43288969993591
+  Prediction Time (s): 0.007678031921386719
+  Memory Usage During Training (MB): 0.26171875
+  Memory Usage During Prediction (MB): 0.125
+Results for actual_ml_0.1_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 0.497917099346304
+  Training Time (s): 0.06743693351745605
+  Prediction Time (s): 0.10630559921264648
+  Memory Usage During Training (MB): 0.53515625
+  Memory Usage During Prediction (MB): -7.921875
+Results for actual_gan_0.9_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0013605442176870747
+  Training Time (s): 1.6460471153259277
+  Prediction Time (s): 0.005980730056762695
+  Memory Usage During Training (MB): -7.03125
+  Memory Usage During Prediction (MB): 0.1328125
+Results for actual_gan_0.9_LogisticRegression_floor:
+  Mean Absolute Error: 0.0006802721088435374
+  Training Time (s): 0.08964323997497559
+  Prediction Time (s): 0.0010135173797607422
+  Memory Usage During Training (MB): 2.5859375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.9_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.005442176870748299
+  Training Time (s): 0.06400871276855469
+  Prediction Time (s): 0.0
+  Memory Usage During Training (MB): 0.328125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.9_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0013605442176870747
+  Training Time (s): 4.9521448612213135
+  Prediction Time (s): 0.0016591548919677734
+  Memory Usage During Training (MB): 0.42578125
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_gan_0.9_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0013605442176870747
+  Training Time (s): 0.06787252426147461
+  Prediction Time (s): 0.09039759635925293
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): -0.3046875
+Results for actual_gan_0.9_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 1.3206416307956308
+  Training Time (s): 18.06184720993042
+  Prediction Time (s): 0.02520465850830078
+  Memory Usage During Training (MB): 20.10546875
+  Memory Usage During Prediction (MB): 0.046875
+Results for actual_gan_0.9_LinearRegression_coord:
+  Mean Distance Error (meters): 4.326793135810211
+  Training Time (s): 0.029952287673950195
+  Prediction Time (s): 0.0019986629486083984
+  Memory Usage During Training (MB): -23.66015625
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_gan_0.9_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 1.4455443890077089
+  Training Time (s): 0.11562252044677734
+  Prediction Time (s): 0.001999378204345703
+  Memory Usage During Training (MB): 2.65625
+  Memory Usage During Prediction (MB): 0.1015625
+Results for actual_gan_0.9_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 1.2663842818431619
+  Training Time (s): 12.89035964012146
+  Prediction Time (s): 0.010751962661743164
+  Memory Usage During Training (MB): 1.2265625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.9_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 1.245913337752236
+  Training Time (s): 0.06826472282409668
+  Prediction Time (s): 0.08408951759338379
+  Memory Usage During Training (MB): -4.04296875
+  Memory Usage During Prediction (MB): -2.71484375
+Results for actual_gan_0.8_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0006802721088435374
+  Training Time (s): 1.8375275135040283
+  Prediction Time (s): 0.006016254425048828
+  Memory Usage During Training (MB): -7.06640625
+  Memory Usage During Prediction (MB): 0.140625
+Results for actual_gan_0.8_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.09283638000488281
+  Prediction Time (s): 0.0010013580322265625
+  Memory Usage During Training (MB): 2.51953125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.8_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0013605442176870747
+  Training Time (s): 0.07662224769592285
+  Prediction Time (s): 0.0009944438934326172
+  Memory Usage During Training (MB): 0.1796875
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.8_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0006802721088435374
+  Training Time (s): 6.847652196884155
+  Prediction Time (s): 0.003002643585205078
+  Memory Usage During Training (MB): 0.58984375
+  Memory Usage During Prediction (MB): 0.1171875
+Results for actual_gan_0.8_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0006802721088435374
+  Training Time (s): 0.06765866279602051
+  Prediction Time (s): 0.1166999340057373
+  Memory Usage During Training (MB): 0.0078125
+  Memory Usage During Prediction (MB): -1.48046875
+Results for actual_gan_0.8_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 1.4269519163159294
+  Training Time (s): 25.237118244171143
+  Prediction Time (s): 0.05333065986633301
+  Memory Usage During Training (MB): 53.953125
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_gan_0.8_LinearRegression_coord:
+  Mean Distance Error (meters): 4.390244441224013
+  Training Time (s): 0.03212714195251465
+  Prediction Time (s): 0.0010030269622802734
+  Memory Usage During Training (MB): -55.2890625
+  Memory Usage During Prediction (MB): 0.02734375
+Results for actual_gan_0.8_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 1.7893583600264673
+  Training Time (s): 0.1315772533416748
+  Prediction Time (s): 0.001995086669921875
+  Memory Usage During Training (MB): 2.515625
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_gan_0.8_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 1.3043314394646317
+  Training Time (s): 17.340898752212524
+  Prediction Time (s): 0.016799449920654297
+  Memory Usage During Training (MB): 1.59375
+  Memory Usage During Prediction (MB): 0.1796875
+Results for actual_gan_0.8_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 1.3653830147607282
+  Training Time (s): 0.0719766616821289
+  Prediction Time (s): 0.09055423736572266
+  Memory Usage During Training (MB): -3.81640625
+  Memory Usage During Prediction (MB): 2.078125
+Results for actual_gan_0.7_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0006802721088435374
+  Training Time (s): 1.9819316864013672
+  Prediction Time (s): 0.008992671966552734
+  Memory Usage During Training (MB): -10.71484375
+  Memory Usage During Prediction (MB): 0.140625
+Results for actual_gan_0.7_LogisticRegression_floor:
+  Mean Absolute Error: 0.0006802721088435374
+  Training Time (s): 0.09658169746398926
+  Prediction Time (s): 0.001010894775390625
+  Memory Usage During Training (MB): 2.0859375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.7_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.005442176870748299
+  Training Time (s): 0.08209371566772461
+  Prediction Time (s): 0.0
+  Memory Usage During Training (MB): 0.2890625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.7_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0020408163265306124
+  Training Time (s): 7.9314610958099365
+  Prediction Time (s): 0.0019998550415039062
+  Memory Usage During Training (MB): 0.1953125
+  Memory Usage During Prediction (MB): 0.1015625
+Results for actual_gan_0.7_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0013605442176870747
+  Training Time (s): 0.07057881355285645
+  Prediction Time (s): 0.09451103210449219
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 0.70703125
+Results for actual_gan_0.7_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 1.6216269015750062
+  Training Time (s): 29.431317806243896
+  Prediction Time (s): 0.03874063491821289
+  Memory Usage During Training (MB): 50.35546875
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.7_LinearRegression_coord:
+  Mean Distance Error (meters): 4.337670569494083
+  Training Time (s): 0.030812740325927734
+  Prediction Time (s): 0.002000570297241211
+  Memory Usage During Training (MB): -54.62109375
+  Memory Usage During Prediction (MB): 0.01953125
+Results for actual_gan_0.7_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 2.239301165566179
+  Training Time (s): 0.15939688682556152
+  Prediction Time (s): 0.00099945068359375
+  Memory Usage During Training (MB): 2.75
+  Memory Usage During Prediction (MB): 0.1015625
+Results for actual_gan_0.7_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 1.6164156650722603
+  Training Time (s): 22.226343393325806
+  Prediction Time (s): 0.01605963706970215
+  Memory Usage During Training (MB): 2.28515625
+  Memory Usage During Prediction (MB): 0.15625
+Results for actual_gan_0.7_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 1.5881793233994046
+  Training Time (s): 0.07251906394958496
+  Prediction Time (s): 0.09942173957824707
+  Memory Usage During Training (MB): -4.0859375
+  Memory Usage During Prediction (MB): 0.640625
+Results for actual_gan_0.6_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 2.3980965614318848
+  Prediction Time (s): 0.008082151412963867
+  Memory Usage During Training (MB): -9.640625
+  Memory Usage During Prediction (MB): 0.13671875
+Results for actual_gan_0.6_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.10894632339477539
+  Prediction Time (s): 0.0
+  Memory Usage During Training (MB): 2.05859375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.6_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0020408163265306124
+  Training Time (s): 0.0835103988647461
+  Prediction Time (s): 0.0
+  Memory Usage During Training (MB): 0.2421875
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.6_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 9.807316780090332
+  Prediction Time (s): 0.002992391586303711
+  Memory Usage During Training (MB): 0.36328125
+  Memory Usage During Prediction (MB): 0.1015625
+Results for actual_gan_0.6_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0013605442176870747
+  Training Time (s): 0.06860733032226562
+  Prediction Time (s): 0.09899306297302246
+  Memory Usage During Training (MB): 0.20703125
+  Memory Usage During Prediction (MB): -0.76953125
+Results for actual_gan_0.6_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 1.7179533988236744
+  Training Time (s): 31.515166997909546
+  Prediction Time (s): 0.029757976531982422
+  Memory Usage During Training (MB): 36.14453125
+  Memory Usage During Prediction (MB): 0.01171875
+Results for actual_gan_0.6_LinearRegression_coord:
+  Mean Distance Error (meters): 4.224930309074885
+  Training Time (s): 0.03352785110473633
+  Prediction Time (s): 0.002091646194458008
+  Memory Usage During Training (MB): -39.33203125
+  Memory Usage During Prediction (MB): 0.0234375
+Results for actual_gan_0.6_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 2.2821335322501635
+  Training Time (s): 0.17654681205749512
+  Prediction Time (s): 0.0009918212890625
+  Memory Usage During Training (MB): 2.6796875
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_gan_0.6_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 1.7048820956859494
+  Training Time (s): 25.005918264389038
+  Prediction Time (s): 0.011667728424072266
+  Memory Usage During Training (MB): 2.38671875
+  Memory Usage During Prediction (MB): 0.0703125
+Results for actual_gan_0.6_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 1.7534128743555861
+  Training Time (s): 0.06925606727600098
+  Prediction Time (s): 0.10069823265075684
+  Memory Usage During Training (MB): -4.18359375
+  Memory Usage During Prediction (MB): 1.76171875
+Results for actual_gan_0.5_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0006802721088435374
+  Training Time (s): 2.6123340129852295
+  Prediction Time (s): 0.008013010025024414
+  Memory Usage During Training (MB): -10.28125
+  Memory Usage During Prediction (MB): 0.1328125
+Results for actual_gan_0.5_LogisticRegression_floor:
+  Mean Absolute Error: 0.0027210884353741495
+  Training Time (s): 0.11615467071533203
+  Prediction Time (s): 0.0009312629699707031
+  Memory Usage During Training (MB): 2.4921875
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_gan_0.5_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.004081632653061225
+  Training Time (s): 0.07979488372802734
+  Prediction Time (s): 0.001585245132446289
+  Memory Usage During Training (MB): 0.23828125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.5_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0020408163265306124
+  Training Time (s): 10.369052410125732
+  Prediction Time (s): 0.003122091293334961
+  Memory Usage During Training (MB): 0.28125
+  Memory Usage During Prediction (MB): 0.1015625
+Results for actual_gan_0.5_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0027210884353741495
+  Training Time (s): 0.06805753707885742
+  Prediction Time (s): 0.12119698524475098
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): -0.12890625
+Results for actual_gan_0.5_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 1.9060912258974911
+  Training Time (s): 40.26346254348755
+  Prediction Time (s): 0.055573225021362305
+  Memory Usage During Training (MB): 79.37109375
+  Memory Usage During Prediction (MB): 0.04296875
+Results for actual_gan_0.5_LinearRegression_coord:
+  Mean Distance Error (meters): 4.2496597950573936
+  Training Time (s): 0.045873165130615234
+  Prediction Time (s): 0.002990245819091797
+  Memory Usage During Training (MB): -84.5078125
+  Memory Usage During Prediction (MB): 0.0234375
+Results for actual_gan_0.5_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 2.423870022632866
+  Training Time (s): 0.21077919006347656
+  Prediction Time (s): 0.0020198822021484375
+  Memory Usage During Training (MB): 2.73046875
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_gan_0.5_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 1.8678431838404081
+  Training Time (s): 28.418822050094604
+  Prediction Time (s): 0.011004924774169922
+  Memory Usage During Training (MB): 2.53125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.5_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 1.909717611277868
+  Training Time (s): 0.0684041976928711
+  Prediction Time (s): 0.10441970825195312
+  Memory Usage During Training (MB): -3.87890625
+  Memory Usage During Prediction (MB): 1.91796875
+Results for actual_gan_0.4_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.003401360544217687
+  Training Time (s): 2.8227486610412598
+  Prediction Time (s): 0.008008003234863281
+  Memory Usage During Training (MB): -9.6640625
+  Memory Usage During Prediction (MB): 0.1328125
+Results for actual_gan_0.4_LogisticRegression_floor:
+  Mean Absolute Error: 0.0027210884353741495
+  Training Time (s): 0.08196306228637695
+  Prediction Time (s): 0.0010085105895996094
+  Memory Usage During Training (MB): 2.546875
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.4_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.005442176870748299
+  Training Time (s): 0.08572149276733398
+  Prediction Time (s): 0.0010001659393310547
+  Memory Usage During Training (MB): 0.24609375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.4_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.006122448979591836
+  Training Time (s): 11.740439653396606
+  Prediction Time (s): 0.0020008087158203125
+  Memory Usage During Training (MB): 0.67578125
+  Memory Usage During Prediction (MB): 0.1015625
+Results for actual_gan_0.4_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.004761904761904762
+  Training Time (s): 0.06756281852722168
+  Prediction Time (s): 0.09310245513916016
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): -0.76953125
+Results for actual_gan_0.4_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 1.946523854001808
+  Training Time (s): 44.709532260894775
+  Prediction Time (s): 0.055815935134887695
+  Memory Usage During Training (MB): 86.921875
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.4_LinearRegression_coord:
+  Mean Distance Error (meters): 4.2942646828832185
+  Training Time (s): 0.03626561164855957
+  Prediction Time (s): 0.0029892921447753906
+  Memory Usage During Training (MB): -92.34765625
+  Memory Usage During Prediction (MB): 0.01953125
+Results for actual_gan_0.4_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 2.693323599273805
+  Training Time (s): 0.22209930419921875
+  Prediction Time (s): 0.0016121864318847656
+  Memory Usage During Training (MB): 2.39453125
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_gan_0.4_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 1.9265324402083277
+  Training Time (s): 32.40009832382202
+  Prediction Time (s): 0.013851642608642578
+  Memory Usage During Training (MB): 1.98046875
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.4_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 1.9768793864778496
+  Training Time (s): 0.06834292411804199
+  Prediction Time (s): 0.10399127006530762
+  Memory Usage During Training (MB): -3.8984375
+  Memory Usage During Prediction (MB): 2.0625
+Results for actual_gan_0.3_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0013605442176870747
+  Training Time (s): 2.790499210357666
+  Prediction Time (s): 0.004997730255126953
+  Memory Usage During Training (MB): -9.484375
+  Memory Usage During Prediction (MB): 0.1328125
+Results for actual_gan_0.3_LogisticRegression_floor:
+  Mean Absolute Error: 0.0027210884353741495
+  Training Time (s): 0.10255217552185059
+  Prediction Time (s): 0.001013040542602539
+  Memory Usage During Training (MB): 2.11328125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.3_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.005442176870748299
+  Training Time (s): 0.08408951759338379
+  Prediction Time (s): 0.001001119613647461
+  Memory Usage During Training (MB): 0.23046875
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.3_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0013605442176870747
+  Training Time (s): 13.065102577209473
+  Prediction Time (s): 0.002996683120727539
+  Memory Usage During Training (MB): 0.6015625
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_gan_0.3_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0027210884353741495
+  Training Time (s): 0.0694890022277832
+  Prediction Time (s): 0.10103869438171387
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): -1.36328125
+Results for actual_gan_0.3_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 1.918030738760899
+  Training Time (s): 46.757039070129395
+  Prediction Time (s): 0.0443272590637207
+  Memory Usage During Training (MB): 68.43359375
+  Memory Usage During Prediction (MB): 0.0234375
+Results for actual_gan_0.3_LinearRegression_coord:
+  Mean Distance Error (meters): 4.152642678310018
+  Training Time (s): 0.03292655944824219
+  Prediction Time (s): 0.002000570297241211
+  Memory Usage During Training (MB): -74.390625
+  Memory Usage During Prediction (MB): 0.01953125
+Results for actual_gan_0.3_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 2.653885308489846
+  Training Time (s): 0.2345414161682129
+  Prediction Time (s): 0.000949859619140625
+  Memory Usage During Training (MB): 2.8984375
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_gan_0.3_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 1.87243369661843
+  Training Time (s): 36.306753158569336
+  Prediction Time (s): 0.011632919311523438
+  Memory Usage During Training (MB): 1.81640625
+  Memory Usage During Prediction (MB): 0.24609375
+Results for actual_gan_0.3_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 1.979755485862896
+  Training Time (s): 0.06863045692443848
+  Prediction Time (s): 0.09855461120605469
+  Memory Usage During Training (MB): -3.80078125
+  Memory Usage During Prediction (MB): 1.515625
+Results for actual_gan_0.2_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0020408163265306124
+  Training Time (s): 3.1180107593536377
+  Prediction Time (s): 0.006000995635986328
+  Memory Usage During Training (MB): 0.484375
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_gan_0.2_LogisticRegression_floor:
+  Mean Absolute Error: 0.003401360544217687
+  Training Time (s): 0.12993669509887695
+  Prediction Time (s): 0.001020193099975586
+  Memory Usage During Training (MB): -0.35546875
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.2_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.005442176870748299
+  Training Time (s): 0.09776163101196289
+  Prediction Time (s): 0.0010066032409667969
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.2_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0027210884353741495
+  Training Time (s): 14.500075817108154
+  Prediction Time (s): 0.0029752254486083984
+  Memory Usage During Training (MB): 0.5703125
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_gan_0.2_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.004081632653061225
+  Training Time (s): 0.0694732666015625
+  Prediction Time (s): 0.11147522926330566
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): -7.27734375
+Results for actual_gan_0.2_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 1.9940054852406084
+  Training Time (s): 49.65822720527649
+  Prediction Time (s): 0.04448580741882324
+  Memory Usage During Training (MB): 73.5625
+  Memory Usage During Prediction (MB): 0.01953125
+Results for actual_gan_0.2_LinearRegression_coord:
+  Mean Distance Error (meters): 4.096690465585033
+  Training Time (s): 0.044712066650390625
+  Prediction Time (s): 0.0020003318786621094
+  Memory Usage During Training (MB): -75.93359375
+  Memory Usage During Prediction (MB): 0.01953125
+Results for actual_gan_0.2_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 2.8251620587379023
+  Training Time (s): 0.24187803268432617
+  Prediction Time (s): 0.0010061264038085938
+  Memory Usage During Training (MB): 2.1640625
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_gan_0.2_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 1.896631181813632
+  Training Time (s): 39.67294883728027
+  Prediction Time (s): 0.011649847030639648
+  Memory Usage During Training (MB): 2.18359375
+  Memory Usage During Prediction (MB): 0.14453125
+Results for actual_gan_0.2_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 2.0921705978249716
+  Training Time (s): 0.0692892074584961
+  Prediction Time (s): 0.09023499488830566
+  Memory Usage During Training (MB): -4.04296875
+  Memory Usage During Prediction (MB): 1.51953125
+Results for actual_gan_0.1_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 3.1389694213867188
+  Prediction Time (s): 0.006005287170410156
+  Memory Usage During Training (MB): -6.03125
+  Memory Usage During Prediction (MB): 0.1328125
+Results for actual_gan_0.1_LogisticRegression_floor:
+  Mean Absolute Error: 0.0020408163265306124
+  Training Time (s): 0.17138361930847168
+  Prediction Time (s): 0.0009951591491699219
+  Memory Usage During Training (MB): -0.3515625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.1_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.004761904761904762
+  Training Time (s): 0.0842442512512207
+  Prediction Time (s): 0.0
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.1_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0013605442176870747
+  Training Time (s): 12.966502666473389
+  Prediction Time (s): 0.0020024776458740234
+  Memory Usage During Training (MB): 0.5859375
+  Memory Usage During Prediction (MB): 0.1015625
+Results for actual_gan_0.1_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0006802721088435374
+  Training Time (s): 0.06676220893859863
+  Prediction Time (s): 0.0959324836730957
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): -0.6640625
+Results for actual_gan_0.1_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 1.7332246684533035
+  Training Time (s): 54.56476616859436
+  Prediction Time (s): 0.0612795352935791
+  Memory Usage During Training (MB): 96.81640625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.1_LinearRegression_coord:
+  Mean Distance Error (meters): 4.050224030800714
+  Training Time (s): 0.03432345390319824
+  Prediction Time (s): 0.0021677017211914062
+  Memory Usage During Training (MB): -101.94140625
+  Memory Usage During Prediction (MB): 0.01953125
+Results for actual_gan_0.1_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 2.4739338537247293
+  Training Time (s): 0.26185107231140137
+  Prediction Time (s): 0.001979351043701172
+  Memory Usage During Training (MB): 2.89453125
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_gan_0.1_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 1.69992266370392
+  Training Time (s): 42.070456981658936
+  Prediction Time (s): 0.011534690856933594
+  Memory Usage During Training (MB): 1.9375
+  Memory Usage During Prediction (MB): 0.15234375
+Results for actual_gan_0.1_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 1.7306835768206572
+  Training Time (s): 0.07057023048400879
+  Prediction Time (s): 0.08558964729309082
+  Memory Usage During Training (MB): -3.79296875
+  Memory Usage During Prediction (MB): 0.56640625
+Results for actual_ml_gan_0.9_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 1.5763933658599854
+  Prediction Time (s): 0.003958702087402344
+  Memory Usage During Training (MB): 1.19140625
+  Memory Usage During Prediction (MB): 0.1171875
+Results for actual_ml_gan_0.9_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.07422542572021484
+  Prediction Time (s): 0.0
+  Memory Usage During Training (MB): -0.359375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.9_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.003401360544217687
+  Training Time (s): 0.06436467170715332
+  Prediction Time (s): 0.0
+  Memory Usage During Training (MB): 0.0078125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.9_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 4.987546682357788
+  Prediction Time (s): 0.0019497871398925781
+  Memory Usage During Training (MB): 0.22265625
+  Memory Usage During Prediction (MB): 0.1015625
+Results for actual_ml_gan_0.9_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.06860160827636719
+  Prediction Time (s): 0.08891415596008301
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 2.33203125
+Results for actual_ml_gan_0.9_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 1.1065051644498411
+  Training Time (s): 18.022781372070312
+  Prediction Time (s): 0.03141617774963379
+  Memory Usage During Training (MB): 11.86328125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.9_LinearRegression_coord:
+  Mean Distance Error (meters): 4.208108477759677
+  Training Time (s): 0.048348188400268555
+  Prediction Time (s): 0.002001523971557617
+  Memory Usage During Training (MB): -25.3125
+  Memory Usage During Prediction (MB): 0.0078125
+Results for actual_ml_gan_0.9_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 1.2148545466276628
+  Training Time (s): 0.13169574737548828
+  Prediction Time (s): 0.001967191696166992
+  Memory Usage During Training (MB): 2.53515625
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_gan_0.9_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 1.0735257458632455
+  Training Time (s): 13.376088619232178
+  Prediction Time (s): 0.010620832443237305
+  Memory Usage During Training (MB): 2.37109375
+  Memory Usage During Prediction (MB): 0.3203125
+Results for actual_ml_gan_0.9_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 1.0337801891890703
+  Training Time (s): 0.06758904457092285
+  Prediction Time (s): 0.08855319023132324
+  Memory Usage During Training (MB): -3.79296875
+  Memory Usage During Prediction (MB): 8.29296875
+Results for actual_ml_gan_0.8_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 1.7885174751281738
+  Prediction Time (s): 0.0059969425201416016
+  Memory Usage During Training (MB): 0.50390625
+  Memory Usage During Prediction (MB): 0.1171875
+Results for actual_ml_gan_0.8_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.09765195846557617
+  Prediction Time (s): 0.0010082721710205078
+  Memory Usage During Training (MB): -0.359375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.8_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0027210884353741495
+  Training Time (s): 0.06937098503112793
+  Prediction Time (s): 0.0010020732879638672
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.8_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 6.632357358932495
+  Prediction Time (s): 0.0028896331787109375
+  Memory Usage During Training (MB): 0.31640625
+  Memory Usage During Prediction (MB): 0.1015625
+Results for actual_ml_gan_0.8_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.06943106651306152
+  Prediction Time (s): 0.11605167388916016
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 0.43359375
+Results for actual_ml_gan_0.8_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 1.092846905331568
+  Training Time (s): 25.961101055145264
+  Prediction Time (s): 0.0678107738494873
+  Memory Usage During Training (MB): 40.1953125
+  Memory Usage During Prediction (MB): 0.09375
+Results for actual_ml_gan_0.8_LinearRegression_coord:
+  Mean Distance Error (meters): 4.079631054835054
+  Training Time (s): 0.03506350517272949
+  Prediction Time (s): 0.0029861927032470703
+  Memory Usage During Training (MB): -55.16015625
+  Memory Usage During Prediction (MB): 0.01953125
+Results for actual_ml_gan_0.8_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 1.2442709471321374
+  Training Time (s): 0.14952516555786133
+  Prediction Time (s): 0.0010046958923339844
+  Memory Usage During Training (MB): 2.73046875
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_gan_0.8_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 1.0573073056429791
+  Training Time (s): 17.463167190551758
+  Prediction Time (s): 0.011065483093261719
+  Memory Usage During Training (MB): 2.2578125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.8_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 1.0214518412554419
+  Training Time (s): 0.06816649436950684
+  Prediction Time (s): 0.09656405448913574
+  Memory Usage During Training (MB): -3.63671875
+  Memory Usage During Prediction (MB): -0.8515625
+Results for actual_ml_gan_0.7_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 1.9260056018829346
+  Prediction Time (s): 0.005003690719604492
+  Memory Usage During Training (MB): 0.953125
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_gan_0.7_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.06612038612365723
+  Prediction Time (s): 0.0010251998901367188
+  Memory Usage During Training (MB): -0.34765625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.7_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0020408163265306124
+  Training Time (s): 0.07814693450927734
+  Prediction Time (s): 0.0
+  Memory Usage During Training (MB): 0.00390625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.7_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 7.642627716064453
+  Prediction Time (s): 0.0010290145874023438
+  Memory Usage During Training (MB): 0.16015625
+  Memory Usage During Prediction (MB): 0.1015625
+Results for actual_ml_gan_0.7_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.07938385009765625
+  Prediction Time (s): 0.11834955215454102
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 3.3359375
+Results for actual_ml_gan_0.7_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 1.065426135636494
+  Training Time (s): 31.41118836402893
+  Prediction Time (s): 0.05440688133239746
+  Memory Usage During Training (MB): 52.9296875
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.7_LinearRegression_coord:
+  Mean Distance Error (meters): 3.9060976333204325
+  Training Time (s): 0.032187700271606445
+  Prediction Time (s): 0.002991914749145508
+  Memory Usage During Training (MB): -63.62890625
+  Memory Usage During Prediction (MB): 0.01953125
+Results for actual_ml_gan_0.7_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 1.410651276317965
+  Training Time (s): 0.16851139068603516
+  Prediction Time (s): 0.002005338668823242
+  Memory Usage During Training (MB): 1.8125
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_gan_0.7_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 1.032533681426745
+  Training Time (s): 22.306792974472046
+  Prediction Time (s): 0.017735004425048828
+  Memory Usage During Training (MB): 1.67578125
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_gan_0.7_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 1.0050925656729495
+  Training Time (s): 0.07251644134521484
+  Prediction Time (s): 0.10265660285949707
+  Memory Usage During Training (MB): -3.8046875
+  Memory Usage During Prediction (MB): 7.9765625
+Results for actual_ml_gan_0.6_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 2.171072244644165
+  Prediction Time (s): 0.00771021842956543
+  Memory Usage During Training (MB): 0.125
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_gan_0.6_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.1011660099029541
+  Prediction Time (s): 0.0009989738464355469
+  Memory Usage During Training (MB): -0.42578125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.6_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0020408163265306124
+  Training Time (s): 0.08952879905700684
+  Prediction Time (s): 0.0
+  Memory Usage During Training (MB): 0.125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.6_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 8.740540266036987
+  Prediction Time (s): 0.0010180473327636719
+  Memory Usage During Training (MB): 0.07421875
+  Memory Usage During Prediction (MB): 0.1015625
+Results for actual_ml_gan_0.6_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.06684255599975586
+  Prediction Time (s): 0.09270620346069336
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 0.30078125
+Results for actual_ml_gan_0.6_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 1.0382288498605727
+  Training Time (s): 36.79064130783081
+  Prediction Time (s): 0.08008956909179688
+  Memory Usage During Training (MB): 64.8125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.6_LinearRegression_coord:
+  Mean Distance Error (meters): 3.7490219600602814
+  Training Time (s): 0.03362417221069336
+  Prediction Time (s): 0.003000974655151367
+  Memory Usage During Training (MB): -78.390625
+  Memory Usage During Prediction (MB): 0.01953125
+Results for actual_ml_gan_0.6_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 1.402305077410718
+  Training Time (s): 0.18304133415222168
+  Prediction Time (s): 0.0009906291961669922
+  Memory Usage During Training (MB): 2.36328125
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_gan_0.6_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 1.0295623866981967
+  Training Time (s): 25.972546815872192
+  Prediction Time (s): 0.011578798294067383
+  Memory Usage During Training (MB): 1.953125
+  Memory Usage During Prediction (MB): 0.1015625
+Results for actual_ml_gan_0.6_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 0.9745267814322653
+  Training Time (s): 0.07041120529174805
+  Prediction Time (s): 0.08940386772155762
+  Memory Usage During Training (MB): 2.7265625
+  Memory Usage During Prediction (MB): 6.203125
+Results for actual_ml_gan_0.5_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 2.1455483436584473
+  Prediction Time (s): 0.004088163375854492
+  Memory Usage During Training (MB): -12.53125
+  Memory Usage During Prediction (MB): 0.13671875
+Results for actual_ml_gan_0.5_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.07789373397827148
+  Prediction Time (s): 0.0008740425109863281
+  Memory Usage During Training (MB): -0.3359375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.5_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0020408163265306124
+  Training Time (s): 0.0808568000793457
+  Prediction Time (s): 0.0008933544158935547
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.5_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 10.529372930526733
+  Prediction Time (s): 0.003615140914916992
+  Memory Usage During Training (MB): 0.5234375
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_gan_0.5_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.07172679901123047
+  Prediction Time (s): 0.09969258308410645
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 6.4453125
+Results for actual_ml_gan_0.5_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 0.986130357885192
+  Training Time (s): 39.07103657722473
+  Prediction Time (s): 0.0446009635925293
+  Memory Usage During Training (MB): 49.625
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_gan_0.5_LinearRegression_coord:
+  Mean Distance Error (meters): 3.5521174535728792
+  Training Time (s): 0.03402376174926758
+  Prediction Time (s): 0.002014636993408203
+  Memory Usage During Training (MB): -61.61328125
+  Memory Usage During Prediction (MB): 0.01953125
+Results for actual_ml_gan_0.5_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 1.4509011172169475
+  Training Time (s): 0.1976318359375
+  Prediction Time (s): 0.0010333061218261719
+  Memory Usage During Training (MB): 2.35546875
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_gan_0.5_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 1.119657002337803
+  Training Time (s): 28.374494552612305
+  Prediction Time (s): 0.007055997848510742
+  Memory Usage During Training (MB): -0.13671875
+  Memory Usage During Prediction (MB): 0.12109375
+Results for actual_ml_gan_0.5_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 0.9316424259409888
+  Training Time (s): 0.05779218673706055
+  Prediction Time (s): 0.10264992713928223
+  Memory Usage During Training (MB): 0.484375
+  Memory Usage During Prediction (MB): 5.765625
+Results for actual_ml_gan_0.4_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 2.3014416694641113
+  Prediction Time (s): 0.004998922348022461
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.4_LogisticRegression_floor:
+  Mean Absolute Error: 0.0006802721088435374
+  Training Time (s): 0.08997249603271484
+  Prediction Time (s): 0.0009999275207519531
+  Memory Usage During Training (MB): -0.359375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.4_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0020408163265306124
+  Training Time (s): 0.07838129997253418
+  Prediction Time (s): 0.0010187625885009766
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.4_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0013605442176870747
+  Training Time (s): 9.894487142562866
+  Prediction Time (s): 0.0020017623901367188
+  Memory Usage During Training (MB): 0.11328125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.4_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.0679163932800293
+  Prediction Time (s): 0.10032415390014648
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 0.20703125
+Results for actual_ml_gan_0.4_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 0.9051699267377301
+  Training Time (s): 43.203898429870605
+  Prediction Time (s): 0.041431427001953125
+  Memory Usage During Training (MB): 46.36328125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.4_LinearRegression_coord:
+  Mean Distance Error (meters): 3.2278035908883163
+  Training Time (s): 0.04285240173339844
+  Prediction Time (s): 0.0009913444519042969
+  Memory Usage During Training (MB): -60.9375
+  Memory Usage During Prediction (MB): 0.01953125
+Results for actual_ml_gan_0.4_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 1.383949147586673
+  Training Time (s): 0.24107718467712402
+  Prediction Time (s): 0.0020041465759277344
+  Memory Usage During Training (MB): 2.63671875
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_gan_0.4_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 0.9472041082707231
+  Training Time (s): 34.67746949195862
+  Prediction Time (s): 0.01168680191040039
+  Memory Usage During Training (MB): 1.9609375
+  Memory Usage During Prediction (MB): 0.203125
+Results for actual_ml_gan_0.4_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 0.8735256721428701
+  Training Time (s): 0.07989859580993652
+  Prediction Time (s): 0.09663581848144531
+  Memory Usage During Training (MB): -12.23828125
+  Memory Usage During Prediction (MB): 7.62890625
+Results for actual_ml_gan_0.3_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 2.317673921585083
+  Prediction Time (s): 0.004065990447998047
+  Memory Usage During Training (MB): 0.3125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.3_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.058844804763793945
+  Prediction Time (s): 0.0009989738464355469
+  Memory Usage During Training (MB): -0.359375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.3_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0027210884353741495
+  Training Time (s): 0.08046460151672363
+  Prediction Time (s): 0.0010998249053955078
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.3_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 10.089064121246338
+  Prediction Time (s): 0.0010001659393310547
+  Memory Usage During Training (MB): 0.03125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.3_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.07834625244140625
+  Prediction Time (s): 0.12918925285339355
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 0.23046875
+Results for actual_ml_gan_0.3_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 0.7598062794699193
+  Training Time (s): 43.58488917350769
+  Prediction Time (s): 0.028531789779663086
+  Memory Usage During Training (MB): 29.859375
+  Memory Usage During Prediction (MB): 0.0234375
+Results for actual_ml_gan_0.3_LinearRegression_coord:
+  Mean Distance Error (meters): 2.9237960623286288
+  Training Time (s): 0.04404592514038086
+  Prediction Time (s): 0.0019068717956542969
+  Memory Usage During Training (MB): -44.75
+  Memory Usage During Prediction (MB): 0.01953125
+Results for actual_ml_gan_0.3_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 1.3411341179110172
+  Training Time (s): 0.23068571090698242
+  Prediction Time (s): 0.0010764598846435547
+  Memory Usage During Training (MB): 2.69140625
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_gan_0.3_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 0.8117354560886647
+  Training Time (s): 38.35253071784973
+  Prediction Time (s): 0.010508060455322266
+  Memory Usage During Training (MB): 1.95703125
+  Memory Usage During Prediction (MB): 0.17578125
+Results for actual_ml_gan_0.3_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 0.7519803115647385
+  Training Time (s): 0.06906700134277344
+  Prediction Time (s): 0.08903098106384277
+  Memory Usage During Training (MB): -3.67578125
+  Memory Usage During Prediction (MB): 7.953125
+Results for actual_ml_gan_0.2_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 2.3813443183898926
+  Prediction Time (s): 0.004002094268798828
+  Memory Usage During Training (MB): 0.1015625
+  Memory Usage During Prediction (MB): 0.11328125
+Results for actual_ml_gan_0.2_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.051077842712402344
+  Prediction Time (s): 0.0009870529174804688
+  Memory Usage During Training (MB): -0.359375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.2_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0013605442176870747
+  Training Time (s): 0.07820010185241699
+  Prediction Time (s): 0.0
+  Memory Usage During Training (MB): 0.1015625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.2_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 10.17070460319519
+  Prediction Time (s): 0.0020394325256347656
+  Memory Usage During Training (MB): 0.03515625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.2_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.05733776092529297
+  Prediction Time (s): 0.09598398208618164
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 0.203125
+Results for actual_ml_gan_0.2_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 0.632637897352214
+  Training Time (s): 48.41184639930725
+  Prediction Time (s): 0.028681039810180664
+  Memory Usage During Training (MB): 31.421875
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.2_LinearRegression_coord:
+  Mean Distance Error (meters): 2.673153610863506
+  Training Time (s): 0.03225398063659668
+  Prediction Time (s): 0.0030431747436523438
+  Memory Usage During Training (MB): -46.48046875
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.2_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 0.9515357542104196
+  Training Time (s): 0.2419579029083252
+  Prediction Time (s): 0.0019435882568359375
+  Memory Usage During Training (MB): 2.9375
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_gan_0.2_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 0.6820475942916883
+  Training Time (s): 41.678319215774536
+  Prediction Time (s): 0.011080503463745117
+  Memory Usage During Training (MB): 1.859375
+  Memory Usage During Prediction (MB): 0.1015625
+Results for actual_ml_gan_0.2_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 0.6600316649698128
+  Training Time (s): 0.06927633285522461
+  Prediction Time (s): 0.08931303024291992
+  Memory Usage During Training (MB): -3.6796875
+  Memory Usage During Prediction (MB): 8.0078125
+Results for actual_ml_gan_0.1_RandomForestClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 2.4532740116119385
+  Prediction Time (s): 0.003062009811401367
+  Memory Usage During Training (MB): 0.296875
+  Memory Usage During Prediction (MB): 0.1171875
+Results for actual_ml_gan_0.1_LogisticRegression_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.050154685974121094
+  Prediction Time (s): 0.0010020732879638672
+  Memory Usage During Training (MB): -0.359375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.1_DecisionTreeClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.07838869094848633
+  Prediction Time (s): 0.0010440349578857422
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.1_GradientBoostingClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 10.632562398910522
+  Prediction Time (s): 0.0019390583038330078
+  Memory Usage During Training (MB): 0.0625
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_gan_0.1_KNeighborsClassifier_floor:
+  Mean Absolute Error: 0.0
+  Training Time (s): 0.06720495223999023
+  Prediction Time (s): 0.09218788146972656
+  Memory Usage During Training (MB): 0.0
+  Memory Usage During Prediction (MB): 0.703125
+Results for actual_ml_gan_0.1_RandomForestRegressor_coord:
+  Mean Distance Error (meters): 0.467797225053076
+  Training Time (s): 51.79627728462219
+  Prediction Time (s): 0.04357290267944336
+  Memory Usage During Training (MB): 53.5546875
+  Memory Usage During Prediction (MB): 0.03125
+Results for actual_ml_gan_0.1_LinearRegression_coord:
+  Mean Distance Error (meters): 2.3239084162089587
+  Training Time (s): 0.03439188003540039
+  Prediction Time (s): 0.0029947757720947266
+  Memory Usage During Training (MB): -67.26953125
+  Memory Usage During Prediction (MB): 0.015625
+Results for actual_ml_gan_0.1_DecisionTreeRegressor_coord:
+  Mean Distance Error (meters): 0.6179653195657699
+  Training Time (s): 0.26247167587280273
+  Prediction Time (s): 0.0019989013671875
+  Memory Usage During Training (MB): 2.828125
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_ml_gan_0.1_GradientBoostingRegressor_coord:
+  Mean Distance Error (meters): 0.615596315668456
+  Training Time (s): 42.74377918243408
+  Prediction Time (s): 0.007999897003173828
+  Memory Usage During Training (MB): -0.0625
+  Memory Usage During Prediction (MB): 0.1015625
+Results for actual_ml_gan_0.1_KNeighborsRegressor_coord:
+  Mean Distance Error (meters): 0.5044912445348929
+  Training Time (s): 0.06700897216796875
+  Prediction Time (s): 0.08595156669616699
+  Memory Usage During Training (MB): 0.03125
+  Memory Usage During Prediction (MB): 4.625
+Results for actual_ml_0.9_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.008999824523925781
+  Memory Usage During Prediction (MB): 0.3671875
+Results for actual_ml_0.8_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.012152910232543945
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.7_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.011782407760620117
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.6_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.011709451675415039
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.5_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.006001949310302734
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.4_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.006001472473144531
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.3_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.011658906936645508
+  Memory Usage During Prediction (MB): 0.078125
+Results for actual_ml_0.2_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.007003068923950195
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.1_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0008168266285480906
+  Prediction Time (s): 0.006498575210571289
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.9_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.009122610092163086
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.8_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.009982109069824219
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.7_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.007082939147949219
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.6_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.012944936752319336
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.5_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.017999649047851562
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.4_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.013011693954467773
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.3_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.00699925422668457
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.2_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.010000467300415039
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.1_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.009523868560791016
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.9_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.006320953369140625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.8_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.009011268615722656
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.7_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.008965492248535156
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.6_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.010993003845214844
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.5_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.006010532379150391
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.4_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.006022453308105469
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.3_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.0066988468170166016
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.2_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.006014823913574219
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.1_RandomForestClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.000612619971411068
+  Prediction Time (s): 0.005868196487426758
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.9_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0026590824127197266
+  Memory Usage During Prediction (MB): 0.07421875
+Results for actual_ml_0.8_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0010530948638916016
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.7_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0009980201721191406
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.6_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0020666122436523438
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.5_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0019555091857910156
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.4_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.002081632614135742
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.3_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0012607574462890625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.2_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0010514259338378906
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.1_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0016074180603027344
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.9_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.0019192695617675781
+  Memory Usage During Prediction (MB): 0.03125
+Results for actual_gan_0.8_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.0009999275207519531
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.7_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.0010080337524414062
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.6_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0009882450103759766
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.5_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0010001659393310547
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.4_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0011053085327148438
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.3_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0010001659393310547
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.2_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0009922981262207031
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.1_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0010259151458740234
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.9_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.001974821090698242
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.8_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0010080337524414062
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.7_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.00099945068359375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.6_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0010006427764892578
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.5_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0021979808807373047
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.4_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0008168266285480906
+  Prediction Time (s): 0.0025222301483154297
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_ml_gan_0.3_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.0009925365447998047
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_ml_gan_0.2_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0009918212890625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.1_LogisticRegression_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0009911060333251953
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.9_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0016336532570961813
+  Prediction Time (s): 0.0010004043579101562
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_ml_0.8_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.001837859914233204
+  Prediction Time (s): 0.0009999275207519531
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.7_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.002450479885644272
+  Prediction Time (s): 0.0
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.6_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0034715131713293854
+  Prediction Time (s): 0.0
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.5_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.001837859914233204
+  Prediction Time (s): 0.0009982585906982422
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.4_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0028588931999183175
+  Prediction Time (s): 0.0
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.3_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.006330406371247703
+  Prediction Time (s): 0.0
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.2_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.006330406371247703
+  Prediction Time (s): 0.0009937286376953125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.1_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.009393506228303043
+  Prediction Time (s): 0.0
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.9_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0008168266285480906
+  Prediction Time (s): 0.0
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.8_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0010025501251220703
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.7_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0014294465999591588
+  Prediction Time (s): 0.0009915828704833984
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.6_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0020420665713702267
+  Prediction Time (s): 0.0
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.5_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0010210332856851133
+  Prediction Time (s): 0.0010020732879638672
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.4_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0020420665713702267
+  Prediction Time (s): 0.001146078109741211
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.3_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0028588931999183175
+  Prediction Time (s): 0.001001119613647461
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.2_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0032673065141923625
+  Prediction Time (s): 0.0010013580322265625
+  Memory Usage During Prediction (MB): 0.03515625
+Results for actual_gan_0.1_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.006738819685521748
+  Prediction Time (s): 0.0012183189392089844
+  Memory Usage During Prediction (MB): 0.0390625
+Results for actual_ml_gan_0.9_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0016336532570961813
+  Prediction Time (s): 0.0010044574737548828
+  Memory Usage During Prediction (MB): 0.0390625
+Results for actual_ml_gan_0.8_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.001837859914233204
+  Prediction Time (s): 0.0
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.7_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0020420665713702267
+  Prediction Time (s): 0.0010018348693847656
+  Memory Usage During Prediction (MB): 0.0390625
+Results for actual_ml_gan_0.6_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0020420665713702267
+  Prediction Time (s): 0.0
+  Memory Usage During Prediction (MB): 0.0390625
+Results for actual_ml_gan_0.5_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0020420665713702267
+  Prediction Time (s): 0.0012140274047851562
+  Memory Usage During Prediction (MB): 0.03515625
+Results for actual_ml_gan_0.4_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0028588931999183175
+  Prediction Time (s): 0.0
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.3_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.006330406371247703
+  Prediction Time (s): 0.0015215873718261719
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.2_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.006330406371247703
+  Prediction Time (s): 0.0
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.1_DecisionTreeClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00918929957116602
+  Prediction Time (s): 0.00099945068359375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.9_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.002998828887939453
+  Memory Usage During Prediction (MB): 0.3984375
+Results for actual_ml_0.8_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.003999471664428711
+  Memory Usage During Prediction (MB): 0.0625
+Results for actual_ml_0.7_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.004001140594482422
+  Memory Usage During Prediction (MB): 0.01171875
+Results for actual_ml_0.6_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.0030107498168945312
+  Memory Usage During Prediction (MB): 0.0625
+Results for actual_ml_0.5_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.003505229949951172
+  Memory Usage During Prediction (MB): 0.03515625
+Results for actual_ml_0.4_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.001997709274291992
+  Memory Usage During Prediction (MB): 0.0625
+Results for actual_ml_0.3_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.0029985904693603516
+  Memory Usage During Prediction (MB): 0.015625
+Results for actual_ml_0.2_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0020420665713702267
+  Prediction Time (s): 0.003282308578491211
+  Memory Usage During Prediction (MB): 0.0625
+Results for actual_ml_0.1_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0028588931999183175
+  Prediction Time (s): 0.00299835205078125
+  Memory Usage During Prediction (MB): 0.03515625
+Results for actual_gan_0.9_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.002998828887939453
+  Memory Usage During Prediction (MB): 0.0625
+Results for actual_gan_0.8_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.004996776580810547
+  Memory Usage During Prediction (MB): 0.01171875
+Results for actual_gan_0.7_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.003999233245849609
+  Memory Usage During Prediction (MB): 0.0625
+Results for actual_gan_0.6_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.00550532341003418
+  Memory Usage During Prediction (MB): 0.0390625
+Results for actual_gan_0.5_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.002998828887939453
+  Memory Usage During Prediction (MB): 0.0625
+Results for actual_gan_0.4_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.003998517990112305
+  Memory Usage During Prediction (MB): 0.01171875
+Results for actual_gan_0.3_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0039975643157958984
+  Memory Usage During Prediction (MB): 0.0625
+Results for actual_gan_0.2_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.0049974918365478516
+  Memory Usage During Prediction (MB): 0.0390625
+Results for actual_gan_0.1_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.001225239942822136
+  Prediction Time (s): 0.003992795944213867
+  Memory Usage During Prediction (MB): 0.0625
+Results for actual_ml_gan_0.9_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.002996206283569336
+  Memory Usage During Prediction (MB): 0.01171875
+Results for actual_ml_gan_0.8_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.0045011043548583984
+  Memory Usage During Prediction (MB): 0.07421875
+Results for actual_ml_gan_0.7_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.0030519962310791016
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.6_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.002998828887939453
+  Memory Usage During Prediction (MB): 0.0390625
+Results for actual_ml_gan_0.5_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.003998279571533203
+  Memory Usage During Prediction (MB): 0.0625
+Results for actual_ml_gan_0.4_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.001837859914233204
+  Prediction Time (s): 0.0019981861114501953
+  Memory Usage During Prediction (MB): 0.01171875
+Results for actual_ml_gan_0.3_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.003077268600463867
+  Memory Usage During Prediction (MB): 0.0703125
+Results for actual_ml_gan_0.2_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.000612619971411068
+  Prediction Time (s): 0.0029981136322021484
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.1_GradientBoostingClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0010210332856851133
+  Prediction Time (s): 0.003008127212524414
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.9_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.27256178855895996
+  Memory Usage During Prediction (MB): 1.5703125
+Results for actual_ml_0.8_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.25183987617492676
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.7_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.19196772575378418
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_ml_0.6_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0008168266285480906
+  Prediction Time (s): 0.25639939308166504
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.5_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.21515369415283203
+  Memory Usage During Prediction (MB): 0.9453125
+Results for actual_ml_0.4_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.19022798538208008
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.3_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.000612619971411068
+  Prediction Time (s): 0.18931365013122559
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.2_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0010210332856851133
+  Prediction Time (s): 0.1918327808380127
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.1_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.005513579742699612
+  Prediction Time (s): 0.18928861618041992
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.9_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.19512391090393066
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.8_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.195969820022583
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.7_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0
+  Prediction Time (s): 0.2170240879058838
+  Memory Usage During Prediction (MB): 0.015625
+Results for actual_gan_0.6_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.25312018394470215
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.5_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.24665498733520508
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.4_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.20862340927124023
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.3_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.000612619971411068
+  Prediction Time (s): 0.2555108070373535
+  Memory Usage During Prediction (MB): 0.43359375
+Results for actual_gan_0.2_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0016336532570961813
+  Prediction Time (s): 0.1970078945159912
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.1_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.19376254081726074
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.9_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.2502155303955078
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.8_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.2502632141113281
+  Memory Usage During Prediction (MB): 0.0234375
+Results for actual_ml_gan_0.7_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.18954849243164062
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.6_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0008168266285480906
+  Prediction Time (s): 0.24697136878967285
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.5_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.00020420665713702266
+  Prediction Time (s): 0.21832871437072754
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.4_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.19285964965820312
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.3_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0004084133142740453
+  Prediction Time (s): 0.1867542266845703
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.2_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.0008168266285480906
+  Prediction Time (s): 0.18778109550476074
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.1_KNeighborsClassifier_floor:
+  Predictions: [0. 0. 0. ... 1. 1. 1.]
+  Mean Absolute Error: 0.004696753114151521
+  Prediction Time (s): 0.18799257278442383
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.9_RandomForestRegressor_coord:
+  Predictions: [[-1.29015963e-02 -3.97461646e-18]
+ [-1.32765963e-02 -5.35903093e-18]
+ [-1.32765963e-02 -5.35903093e-18]
+ ...
+ [ 8.89200013e+00  1.72169996e+01]
+ [ 8.64700013e+00  1.72769996e+01]
+ [ 8.64700013e+00  1.72769996e+01]]
+  Mean Distance Error (meters): 0.7143628130347468
+  Prediction Time (s): 0.05074667930603027
+  Memory Usage During Prediction (MB): 0.3828125
+Results for actual_ml_0.8_RandomForestRegressor_coord:
+  Predictions: [[-1.41349630e-02  1.79999995e-02]
+ [ 6.07142857e-04 -4.85195969e-18]
+ [ 6.07142857e-04 -4.85195969e-18]
+ ...
+ [ 9.02840924e+00  1.71494996e+01]
+ [ 8.86050015e+00  1.73129996e+01]
+ [ 8.86050015e+00  1.73129996e+01]]
+  Mean Distance Error (meters): 0.7880452743511027
+  Prediction Time (s): 0.09932875633239746
+  Memory Usage During Prediction (MB): 0.08203125
+Results for actual_ml_0.7_RandomForestRegressor_coord:
+  Predictions: [[-0.05973549  0.203     ]
+ [-0.03713037  0.11603572]
+ [-0.03713037  0.11603572]
+ ...
+ [ 7.98314171 16.73649984]
+ [ 7.61039292 17.01599956]
+ [ 7.61039292 17.01599956]]
+  Mean Distance Error (meters): 0.9134514567615225
+  Prediction Time (s): 0.09695672988891602
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.6_RandomForestRegressor_coord:
+  Predictions: [[-0.09000291  0.26399999]
+ [-0.13710615  0.518     ]
+ [-0.13710615  0.518     ]
+ ...
+ [ 7.43355391 16.62999985]
+ [ 7.12622064 16.72933301]
+ [ 7.12622064 16.72933301]]
+  Mean Distance Error (meters): 1.013998018145028
+  Prediction Time (s): 0.07417702674865723
+  Memory Usage During Prediction (MB): 0.3359375
+Results for actual_ml_0.5_RandomForestRegressor_coord:
+  Predictions: [[-0.05530449  0.43641666]
+ [-0.2685363   2.81799998]
+ [-0.2685363   2.81799998]
+ ...
+ [ 7.59135102 16.93899988]
+ [ 6.94903858 16.92649963]
+ [ 6.94903858 16.92649963]]
+  Mean Distance Error (meters): 1.176947157032549
+  Prediction Time (s): 0.09667396545410156
+  Memory Usage During Prediction (MB): 0.07421875
+Results for actual_ml_0.4_RandomForestRegressor_coord:
+  Predictions: [[-0.13362935  1.93164286]
+ [-0.23312936  4.04649996]
+ [-0.23312936  4.04649996]
+ ...
+ [ 7.40900004 14.65900014]
+ [ 6.60425011 16.74640828]
+ [ 6.60425011 16.74640828]]
+  Mean Distance Error (meters): 1.388446843170846
+  Prediction Time (s): 0.09510946273803711
+  Memory Usage During Prediction (MB): 0.04296875
+Results for actual_ml_0.3_RandomForestRegressor_coord:
+  Predictions: [[-0.21074309  1.34049997]
+ [-0.33984648  6.0134999 ]
+ [-0.33984648  6.0134999 ]
+ ...
+ [ 6.60300008 12.30449995]
+ [ 6.91650012 17.05774963]
+ [ 6.91650012 17.05774963]]
+  Mean Distance Error (meters): 1.656874201781043
+  Prediction Time (s): 0.09111189842224121
+  Memory Usage During Prediction (MB): 0.0859375
+Results for actual_ml_0.2_RandomForestRegressor_coord:
+  Predictions: [[-0.40000002  1.04299999]
+ [-0.79700003  6.87799991]
+ [-0.79700003  6.87799991]
+ ...
+ [ 5.00300003 11.84799974]
+ [ 4.39700007 16.0459996 ]
+ [ 4.39700007 16.0459996 ]]
+  Mean Distance Error (meters): 2.0351774553725046
+  Prediction Time (s): 0.043417930603027344
+  Memory Usage During Prediction (MB): 0.1171875
+Results for actual_ml_0.1_RandomForestRegressor_coord:
+  Predictions: [[-0.32400001  0.93199999]
+ [-0.31800001  9.24299994]
+ [-0.31800001  9.24299994]
+ ...
+ [ 5.71000006 11.55299986]
+ [ 5.825      16.67599967]
+ [ 5.825      16.67599967]]
+  Mean Distance Error (meters): 2.563291663261627
+  Prediction Time (s): 0.03966474533081055
+  Memory Usage During Prediction (MB): 0.0234375
+Results for actual_gan_0.9_RandomForestRegressor_coord:
+  Predictions: [[-8.74650438e-03  0.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00]
+ ...
+ [ 8.87422616e+00  1.72679996e+01]
+ [ 8.73558491e+00  1.73219996e+01]
+ [ 8.73558491e+00  1.73219996e+01]]
+  Mean Distance Error (meters): 0.7100139877896685
+  Prediction Time (s): 0.050490617752075195
+  Memory Usage During Prediction (MB): 0.3359375
+Results for actual_gan_0.8_RandomForestRegressor_coord:
+  Predictions: [[-5.18114132e-03  1.79999995e-02]
+ [-1.28226917e-02  1.79999995e-02]
+ [-1.28226917e-02  1.79999995e-02]
+ ...
+ [ 8.76456706e+00  1.72146359e+01]
+ [ 8.60380736e+00  1.72834065e+01]
+ [ 8.60380736e+00  1.72834065e+01]]
+  Mean Distance Error (meters): 0.7827629658045036
+  Prediction Time (s): 0.10236263275146484
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_gan_0.7_RandomForestRegressor_coord:
+  Predictions: [[-0.02596532  0.128     ]
+ [-0.01856851  0.06075518]
+ [-0.01856851  0.06075518]
+ ...
+ [ 7.3738894  16.69202098]
+ [ 7.89709602 17.12370099]
+ [ 7.89709602 17.12370099]]
+  Mean Distance Error (meters): 0.8927426342684797
+  Prediction Time (s): 0.07899212837219238
+  Memory Usage During Prediction (MB): 0.03515625
+Results for actual_gan_0.6_RandomForestRegressor_coord:
+  Predictions: [[-0.05188028  0.16004528]
+ [-0.19905319  0.07421728]
+ [-0.19905319  0.07421728]
+ ...
+ [ 7.38442375 16.82269124]
+ [ 7.3736861  17.08999016]
+ [ 7.3736861  17.08999016]]
+  Mean Distance Error (meters): 1.0484361236847275
+  Prediction Time (s): 0.054625511169433594
+  Memory Usage During Prediction (MB): 0.09765625
+Results for actual_gan_0.5_RandomForestRegressor_coord:
+  Predictions: [[-1.49603404e-02  2.37708947e-01]
+ [-9.02552018e-01  5.34356114e-01]
+ [-9.02552018e-01  5.34356114e-01]
+ ...
+ [ 6.72153448e+00  1.75744371e+01]
+ [ 6.47467767e+00  1.75162091e+01]
+ [ 6.47467767e+00  1.75162091e+01]]
+  Mean Distance Error (meters): 1.1988498845278834
+  Prediction Time (s): 0.10408759117126465
+  Memory Usage During Prediction (MB): 0.015625
+Results for actual_gan_0.4_RandomForestRegressor_coord:
+  Predictions: [[-0.14825645  0.80120057]
+ [-0.89833336  0.87125565]
+ [-0.89833336  0.87125565]
+ ...
+ [ 7.28036963 17.59636633]
+ [ 6.78305116 17.26563308]
+ [ 6.78305116 17.26563308]]
+  Mean Distance Error (meters): 1.385708511633499
+  Prediction Time (s): 0.10412716865539551
+  Memory Usage During Prediction (MB): 0.09375
+Results for actual_gan_0.3_RandomForestRegressor_coord:
+  Predictions: [[-0.16262516  0.66084536]
+ [-1.82747864 -0.13570973]
+ [-1.82747864 -0.13570973]
+ ...
+ [ 6.66430308 17.70028328]
+ [ 7.05367305 17.56277727]
+ [ 7.05367305 17.56277727]]
+  Mean Distance Error (meters): 1.6041286995113124
+  Prediction Time (s): 0.07613158226013184
+  Memory Usage During Prediction (MB): 0.078125
+Results for actual_gan_0.2_RandomForestRegressor_coord:
+  Predictions: [[-0.3285591   0.82035526]
+ [-1.86560995 -0.07420814]
+ [-1.86560995 -0.07420814]
+ ...
+ [ 4.64491328 17.64716707]
+ [ 3.72399724 17.91433964]
+ [ 3.72399724 17.91433964]]
+  Mean Distance Error (meters): 1.9167539049111182
+  Prediction Time (s): 0.07745218276977539
+  Memory Usage During Prediction (MB): 0.0078125
+Results for actual_gan_0.1_RandomForestRegressor_coord:
+  Predictions: [[-0.31726927  0.83973553]
+ [-1.48578058  0.40271906]
+ [-1.48578058  0.40271906]
+ ...
+ [ 3.80027687 18.46687481]
+ [ 3.05200876 18.7090313 ]
+ [ 3.05200876 18.7090313 ]]
+  Mean Distance Error (meters): 2.4494892919358646
+  Prediction Time (s): 0.09613704681396484
+  Memory Usage During Prediction (MB): 0.0859375
+Results for actual_ml_gan_0.9_RandomForestRegressor_coord:
+  Predictions: [[-1.20000005e-02 -2.58544345e-18]
+ [ 0.00000000e+00 -4.59025003e-18]
+ [ 0.00000000e+00 -4.59025003e-18]
+ ...
+ [ 8.63700013e+00  1.72439996e+01]
+ [ 8.46700014e+00  1.73019996e+01]
+ [ 8.46700014e+00  1.73019996e+01]]
+  Mean Distance Error (meters): 0.713690360598282
+  Prediction Time (s): 0.04907679557800293
+  Memory Usage During Prediction (MB): 0.33984375
+Results for actual_ml_gan_0.8_RandomForestRegressor_coord:
+  Predictions: [[-6.50102375e-03  3.59999990e-02]
+ [-6.27907001e-03 -3.59547695e-18]
+ [-6.27907001e-03 -3.59547695e-18]
+ ...
+ [ 8.76862515e+00  1.71734996e+01]
+ [ 8.59535729e+00  1.72729996e+01]
+ [ 8.59535729e+00  1.72729996e+01]]
+  Mean Distance Error (meters): 0.7917748719345632
+  Prediction Time (s): 0.0989992618560791
+  Memory Usage During Prediction (MB): 0.0078125
+Results for actual_ml_gan_0.7_RandomForestRegressor_coord:
+  Predictions: [[-0.09440698  0.33499999]
+ [-0.04050434  0.0645    ]
+ [-0.04050434  0.0645    ]
+ ...
+ [ 7.50528727 16.72549985]
+ [ 7.56987313 16.97749956]
+ [ 7.56987313 16.97749956]]
+  Mean Distance Error (meters): 0.902700999144197
+  Prediction Time (s): 0.10017967224121094
+  Memory Usage During Prediction (MB): 0.07421875
+Results for actual_ml_gan_0.6_RandomForestRegressor_coord:
+  Predictions: [[-0.05699269  0.2075    ]
+ [-0.13998743  0.2065    ]
+ [-0.13998743  0.2065    ]
+ ...
+ [ 7.47958335 16.83349983]
+ [ 7.32265302 16.95499969]
+ [ 7.32265302 16.95499969]]
+  Mean Distance Error (meters): 1.0185653775728518
+  Prediction Time (s): 0.09812283515930176
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.5_RandomForestRegressor_coord:
+  Predictions: [[-0.02723396  0.28979893]
+ [-0.20319947  1.94771427]
+ [-0.20319947  1.94771427]
+ ...
+ [ 6.97500007 16.7406666 ]
+ [ 6.83475012 16.98733295]
+ [ 6.83475012 16.98733295]]
+  Mean Distance Error (meters): 1.1798380129326436
+  Prediction Time (s): 0.07233428955078125
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_ml_gan_0.4_RandomForestRegressor_coord:
+  Predictions: [[-0.15801472  1.46333331]
+ [-0.20570846  3.63933333]
+ [-0.20570846  3.63933333]
+ ...
+ [ 6.8788279  16.34466679]
+ [ 6.83149465 16.67715636]
+ [ 6.83149465 16.67715636]]
+  Mean Distance Error (meters): 1.3908589564201659
+  Prediction Time (s): 0.07212114334106445
+  Memory Usage During Prediction (MB): 0.08984375
+Results for actual_ml_gan_0.3_RandomForestRegressor_coord:
+  Predictions: [[-0.12776924  1.33399997]
+ [-0.24272811  5.56499997]
+ [-0.24272811  5.56499997]
+ ...
+ [ 5.94200006 12.07999989]
+ [ 6.27824191 17.10075993]
+ [ 6.27824191 17.10075993]]
+  Mean Distance Error (meters): 1.6532047137010988
+  Prediction Time (s): 0.0485386848449707
+  Memory Usage During Prediction (MB): 0.01171875
+Results for actual_ml_gan_0.2_RandomForestRegressor_coord:
+  Predictions: [[-0.30200001  1.17710365]
+ [-0.66436453  5.86018733]
+ [-0.66436453  5.86018733]
+ ...
+ [ 5.29900002 11.61099971]
+ [ 4.57000004 16.06999967]
+ [ 4.57000004 16.06999967]]
+  Mean Distance Error (meters): 2.003752668570924
+  Prediction Time (s): 0.044866085052490234
+  Memory Usage During Prediction (MB): 0.07421875
+Results for actual_ml_gan_0.1_RandomForestRegressor_coord:
+  Predictions: [[-0.34733335  1.17273578]
+ [-0.38333335 11.71046955]
+ [-0.38333335 11.71046955]
+ ...
+ [ 5.65333342 10.75799988]
+ [ 3.6346667  16.50373006]
+ [ 3.6346667  16.50373006]]
+  Mean Distance Error (meters): 2.545264982428466
+  Prediction Time (s): 0.05940103530883789
+  Memory Usage During Prediction (MB): 0.01171875
+Results for actual_ml_0.9_LinearRegression_coord:
+  Predictions: [[-3.64225596  6.91903305]
+ [-5.55910324  6.8896823 ]
+ [-5.55910324  6.8896823 ]
+ ...
+ [ 2.86344057 18.88871262]
+ [ 2.0053687  18.10361029]
+ [ 2.0053687  18.10361029]]
+  Mean Distance Error (meters): 4.302228550068686
+  Prediction Time (s): 0.0018985271453857422
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.8_LinearRegression_coord:
+  Predictions: [[-3.96959469  6.7165299 ]
+ [-5.81906963  6.58536483]
+ [-5.81906963  6.58536483]
+ ...
+ [ 2.76939398 19.05609573]
+ [ 1.90676497 18.25658701]
+ [ 1.90676497 18.25658701]]
+  Mean Distance Error (meters): 4.325685012174053
+  Prediction Time (s): 0.0019273757934570312
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.7_LinearRegression_coord:
+  Predictions: [[-4.47685061  6.5317237 ]
+ [-6.01198904  6.48161473]
+ [-6.01198904  6.48161473]
+ ...
+ [ 2.35517948 18.75645051]
+ [ 1.47632557 17.93938373]
+ [ 1.47632557 17.93938373]]
+  Mean Distance Error (meters): 4.355389040744838
+  Prediction Time (s): 0.0020096302032470703
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.6_LinearRegression_coord:
+  Predictions: [[-4.57445345  6.22930426]
+ [-6.20583625  6.18819171]
+ [-6.20583625  6.18819171]
+ ...
+ [ 2.35571215 18.76850451]
+ [ 1.45368875 17.93901506]
+ [ 1.45368875 17.93901506]]
+  Mean Distance Error (meters): 4.404298784955406
+  Prediction Time (s): 0.002651691436767578
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.5_LinearRegression_coord:
+  Predictions: [[-4.71483536  5.63640105]
+ [-6.54784776  5.78623569]
+ [-6.54784776  5.78623569]
+ ...
+ [ 2.46741828 18.6544179 ]
+ [ 1.51052189 17.78621299]
+ [ 1.51052189 17.78621299]]
+  Mean Distance Error (meters): 4.4666814860990725
+  Prediction Time (s): 0.001994609832763672
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.4_LinearRegression_coord:
+  Predictions: [[-4.74716344  4.82950248]
+ [-6.64788212  5.13134686]
+ [-6.64788212  5.13134686]
+ ...
+ [ 2.20488775 18.75113654]
+ [ 1.19933631 17.84005721]
+ [ 1.19933631 17.84005721]]
+  Mean Distance Error (meters): 4.558016899515502
+  Prediction Time (s): 0.0021064281463623047
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.3_LinearRegression_coord:
+  Predictions: [[-4.38912857  4.74888315]
+ [-6.74955469  4.80128855]
+ [-6.74955469  4.80128855]
+ ...
+ [ 2.81190695 19.33051291]
+ [ 1.72617346 18.36243072]
+ [ 1.72617346 18.36243072]]
+  Mean Distance Error (meters): 4.656361889419518
+  Prediction Time (s): 0.0020003318786621094
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.2_LinearRegression_coord:
+  Predictions: [[-4.99967531  3.95587761]
+ [-7.30403642  3.63511851]
+ [-7.30403642  3.63511851]
+ ...
+ [ 2.87898451 19.94480693]
+ [ 1.75329826 18.83337857]
+ [ 1.75329826 18.83337857]]
+  Mean Distance Error (meters): 4.858956364858556
+  Prediction Time (s): 0.001999378204345703
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.1_LinearRegression_coord:
+  Predictions: [[-5.35702424  3.10729868]
+ [-7.84262567  2.93965249]
+ [-7.84262567  2.93965249]
+ ...
+ [ 3.56510102 19.88456783]
+ [ 2.32232652 18.69884996]
+ [ 2.32232652 18.69884996]]
+  Mean Distance Error (meters): 5.18296507172471
+  Prediction Time (s): 0.0020034313201904297
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.9_LinearRegression_coord:
+  Predictions: [[-3.51971453  7.2414614 ]
+ [-5.4139429   7.19383946]
+ [-5.4139429   7.19383946]
+ ...
+ [ 2.78955082 18.89357889]
+ [ 1.9403525  18.14214687]
+ [ 1.9403525  18.14214687]]
+  Mean Distance Error (meters): 4.2950911547976505
+  Prediction Time (s): 0.0019898414611816406
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.8_LinearRegression_coord:
+  Predictions: [[-3.6281801   7.22003077]
+ [-5.40284515  7.29692788]
+ [-5.40284515  7.29692788]
+ ...
+ [ 2.67567607 18.89316349]
+ [ 1.85343588 18.15259051]
+ [ 1.85343588 18.15259051]]
+  Mean Distance Error (meters): 4.2995809228995
+  Prediction Time (s): 0.0030930042266845703
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.7_LinearRegression_coord:
+  Predictions: [[-3.73428423  7.54399501]
+ [-5.33629391  7.83136008]
+ [-5.33629391  7.83136008]
+ ...
+ [ 2.42165911 18.45288961]
+ [ 1.63428551 17.7584317 ]
+ [ 1.63428551 17.7584317 ]]
+  Mean Distance Error (meters): 4.294581554684957
+  Prediction Time (s): 0.001990079879760742
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.6_LinearRegression_coord:
+  Predictions: [[-3.85264324  7.57429962]
+ [-5.37883189  7.93782359]
+ [-5.37883189  7.93782359]
+ ...
+ [ 2.18335569 18.51958222]
+ [ 1.42169301 17.83860044]
+ [ 1.42169301 17.83860044]]
+  Mean Distance Error (meters): 4.312682040985408
+  Prediction Time (s): 0.0035092830657958984
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.5_LinearRegression_coord:
+  Predictions: [[-3.9495564   7.48167829]
+ [-5.53147805  8.06229637]
+ [-5.53147805  8.06229637]
+ ...
+ [ 2.17754465 18.37515306]
+ [ 1.42836918 17.72362033]
+ [ 1.42836918 17.72362033]]
+  Mean Distance Error (meters): 4.320853156872564
+  Prediction Time (s): 0.0029931068420410156
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.4_LinearRegression_coord:
+  Predictions: [[-3.80146902  7.98594161]
+ [-5.44197957  8.41316767]
+ [-5.44197957  8.41316767]
+ ...
+ [ 1.9979228  18.79418699]
+ [ 1.26355345 18.11376954]
+ [ 1.26355345 18.11376954]]
+  Mean Distance Error (meters): 4.332049533323441
+  Prediction Time (s): 0.003998279571533203
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.3_LinearRegression_coord:
+  Predictions: [[-3.68778904  6.92447638]
+ [-5.30343984  7.66489864]
+ [-5.30343984  7.66489864]
+ ...
+ [ 2.07557831 18.51791611]
+ [ 1.38567354 17.90544679]
+ [ 1.38567354 17.90544679]]
+  Mean Distance Error (meters): 4.357052034679133
+  Prediction Time (s): 0.002991199493408203
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.2_LinearRegression_coord:
+  Predictions: [[-3.85966915  6.94957421]
+ [-5.52718707  8.02973696]
+ [-5.52718707  8.02973696]
+ ...
+ [ 2.14126438 18.02153255]
+ [ 1.49316317 17.43963546]
+ [ 1.49316317 17.43963546]]
+  Mean Distance Error (meters): 4.409546034158324
+  Prediction Time (s): 0.0010099411010742188
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.1_LinearRegression_coord:
+  Predictions: [[-4.06339746  6.5412825 ]
+ [-5.46644837  8.00939979]
+ [-5.46644837  8.00939979]
+ ...
+ [ 1.78635081 17.94809271]
+ [ 1.16741197 17.43439365]
+ [ 1.16741197 17.43439365]]
+  Mean Distance Error (meters): 4.485179735820953
+  Prediction Time (s): 0.0019998550415039062
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.9_LinearRegression_coord:
+  Predictions: [[-3.7042903   7.0175202 ]
+ [-5.59803674  6.98819065]
+ [-5.59803674  6.98819065]
+ ...
+ [ 2.85108647 18.88299893]
+ [ 1.99393397 18.10150183]
+ [ 1.99393397 18.10150183]]
+  Mean Distance Error (meters): 4.30088079148907
+  Prediction Time (s): 0.0010006427764892578
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.8_LinearRegression_coord:
+  Predictions: [[-3.96292818  6.68057267]
+ [-5.77940179  6.54847618]
+ [-5.77940179  6.54847618]
+ ...
+ [ 2.67005211 19.05356287]
+ [ 1.81351607 18.25841623]
+ [ 1.81351607 18.25841623]]
+  Mean Distance Error (meters): 4.3269610076165375
+  Prediction Time (s): 0.002001047134399414
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.7_LinearRegression_coord:
+  Predictions: [[-4.45959369  6.61293192]
+ [-6.00752757  6.5282201 ]
+ [-6.00752757  6.5282201 ]
+ ...
+ [ 2.33992117 18.89827471]
+ [ 1.46937216 18.07866762]
+ [ 1.46937216 18.07866762]]
+  Mean Distance Error (meters): 4.358526406106406
+  Prediction Time (s): 0.001999378204345703
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.6_LinearRegression_coord:
+  Predictions: [[-4.61101197  6.44187392]
+ [-6.26192588  6.31349539]
+ [-6.26192588  6.31349539]
+ ...
+ [ 2.31781917 18.77363049]
+ [ 1.42067588 17.93478919]
+ [ 1.42067588 17.93478919]]
+  Mean Distance Error (meters): 4.404671448553007
+  Prediction Time (s): 0.0019979476928710938
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.5_LinearRegression_coord:
+  Predictions: [[-4.79327802  5.99667867]
+ [-6.58816575  6.04248719]
+ [-6.58816575  6.04248719]
+ ...
+ [ 2.46661587 18.72382933]
+ [ 1.53781695 17.85010661]
+ [ 1.53781695 17.85010661]]
+  Mean Distance Error (meters): 4.460907913304864
+  Prediction Time (s): 0.0020046234130859375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.4_LinearRegression_coord:
+  Predictions: [[-4.7691682   5.09098605]
+ [-6.58124106  5.26994615]
+ [-6.58124106  5.26994615]
+ ...
+ [ 2.05399661 18.84180718]
+ [ 1.08375339 17.90978468]
+ [ 1.08375339 17.90978468]]
+  Mean Distance Error (meters): 4.559263802372033
+  Prediction Time (s): 0.00199127197265625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.3_LinearRegression_coord:
+  Predictions: [[-4.33688593  4.5739803 ]
+ [-6.69287721  4.5615896 ]
+ [-6.69287721  4.5615896 ]
+ ...
+ [ 2.78207499 19.23796402]
+ [ 1.72325171 18.27329346]
+ [ 1.72325171 18.27329346]]
+  Mean Distance Error (meters): 4.670473868299194
+  Prediction Time (s): 0.0020017623901367188
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.2_LinearRegression_coord:
+  Predictions: [[-4.86507194  4.46623108]
+ [-7.15558989  4.15920706]
+ [-7.15558989  4.15920706]
+ ...
+ [ 2.83513981 19.75533638]
+ [ 1.76862045 18.6841165 ]
+ [ 1.76862045 18.6841165 ]]
+  Mean Distance Error (meters): 4.819259642138847
+  Prediction Time (s): 0.002991199493408203
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.1_LinearRegression_coord:
+  Predictions: [[-5.28054411  3.95474636]
+ [-7.54925996  3.48886258]
+ [-7.54925996  3.48886258]
+ ...
+ [ 3.14279657 19.92092549]
+ [ 1.95209987 18.73341   ]
+ [ 1.95209987 18.73341   ]]
+  Mean Distance Error (meters): 5.135259129201463
+  Prediction Time (s): 0.002991199493408203
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.9_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.5271565199115296
+  Prediction Time (s): 0.0009999275207519531
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.8_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.5968800166677221
+  Prediction Time (s): 0.001989603042602539
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.7_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.00000000e+00  0.00000000e+00]
+ [ 0.00000000e+00 -2.77555756e-17]
+ [ 0.00000000e+00 -2.77555756e-17]
+ ...
+ [ 9.30000019e+00  1.73999996e+01]
+ [ 9.30000019e+00  1.73999996e+01]
+ [ 9.30000019e+00  1.73999996e+01]]
+  Mean Distance Error (meters): 1.1180223467611448
+  Prediction Time (s): 0.001991748809814453
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.6_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.00000000e+00  0.00000000e+00]
+ [ 0.00000000e+00 -3.70074342e-17]
+ [ 0.00000000e+00 -3.70074342e-17]
+ ...
+ [ 5.69999981e+00  1.73999996e+01]
+ [ 9.30000019e+00  1.73999996e+01]
+ [ 9.30000019e+00  1.73999996e+01]]
+  Mean Distance Error (meters): 1.2287725998591972
+  Prediction Time (s): 0.0019991397857666016
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.5_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.00000000e+00 -3.70074342e-17]
+ [-1.20000005e+00 -4.44089210e-17]
+ [-1.20000005e+00 -4.44089210e-17]
+ ...
+ [ 9.30000019e+00  1.80000000e+01]
+ [ 9.30000019e+00  1.73999996e+01]
+ [ 9.30000019e+00  1.73999996e+01]]
+  Mean Distance Error (meters): 1.0926694714163316
+  Prediction Time (s): 0.002000093460083008
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.4_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          6.39999994]
+ [ 0.          6.39999994]
+ ...
+ [ 8.85000014 17.9       ]
+ [ 5.17777767 17.39999962]
+ [ 5.17777767 17.39999962]]
+  Mean Distance Error (meters): 2.0167136199395115
+  Prediction Time (s): 0.0009999275207519531
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.3_DecisionTreeRegressor_coord:
+  Predictions: [[-0.99591841  0.        ]
+ [-0.99591841 14.96000008]
+ [-0.99591841 14.96000008]
+ ...
+ [ 8.85000014  8.64166648]
+ [ 8.85000014 17.39999962]
+ [ 8.85000014 17.39999962]]
+  Mean Distance Error (meters): 2.312827181147106
+  Prediction Time (s): 0.0019998550415039062
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.2_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.          3.60000001]
+ [-0.90000004  0.        ]
+ [-0.90000004  0.        ]
+ ...
+ [ 4.30000011  8.39999962]
+ [ 4.30000011 14.30666629]
+ [ 4.30000011 14.30666629]]
+  Mean Distance Error (meters): 2.8659854540638823
+  Prediction Time (s): 0.0010862350463867188
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.1_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.          0.60000002]
+ [ 0.         14.14999962]
+ [ 0.         14.14999962]
+ ...
+ [ 9.30000019 11.75      ]
+ [ 5.79999981 17.39999953]
+ [ 5.79999981 17.39999953]]
+  Mean Distance Error (meters): 3.078073176268354
+  Prediction Time (s): 0.0010254383087158203
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.9_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.5776612584304306
+  Prediction Time (s): 0.0020751953125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.8_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 1.0618846221588338
+  Prediction Time (s): 0.0019659996032714844
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.7_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 5.77093902 17.39999962]
+ [ 5.77093902 17.39999962]
+ [ 5.77093902 17.39999962]]
+  Mean Distance Error (meters): 1.223702517003733
+  Prediction Time (s): 0.0010037422180175781
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.6_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 4.55747678 16.84285655]
+ [ 4.55747678 16.84285655]
+ [ 4.55747678 16.84285655]]
+  Mean Distance Error (meters): 1.3898988075695835
+  Prediction Time (s): 0.001973390579223633
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.5_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [-1.10208246  4.80000019]
+ [-1.10208246  4.80000019]
+ ...
+ [ 7.21765929 16.93664493]
+ [ 7.21765929 16.93664493]
+ [ 7.21765929 16.93664493]]
+  Mean Distance Error (meters): 1.4402652118095993
+  Prediction Time (s): 0.0020356178283691406
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.4_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.          1.80000007]
+ [-2.5507092   0.15492345]
+ [-2.5507092   0.15492345]
+ ...
+ [ 9.30000019 22.15166267]
+ [ 9.30000019 17.12307651]
+ [ 9.30000019 17.12307651]]
+  Mean Distance Error (meters): 1.8207327706764127
+  Prediction Time (s): 0.0019164085388183594
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.3_DecisionTreeRegressor_coord:
+  Predictions: [[-0.21071914  0.13122   ]
+ [-1.94911941  0.13122   ]
+ [-1.94911941  0.13122   ]
+ ...
+ [ 9.30000019 16.99999937]
+ [ 9.30000019 16.99999937]
+ [ 9.30000019 16.99999937]]
+  Mean Distance Error (meters): 2.164753836064856
+  Prediction Time (s): 0.0009996891021728516
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.2_DecisionTreeRegressor_coord:
+  Predictions: [[-0.45477799  0.05841262]
+ [-1.67910892  0.05841262]
+ [-1.67910892  0.05841262]
+ ...
+ [ 2.11464041 16.69842454]
+ [ 2.11464041 16.69842454]
+ [ 2.11464041 16.69842454]]
+  Mean Distance Error (meters): 2.8242096469483164
+  Prediction Time (s): 0.0009860992431640625
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.1_DecisionTreeRegressor_coord:
+  Predictions: [[-0.29817979  1.46400493]
+ [ 0.          1.46400493]
+ [ 0.          1.46400493]
+ ...
+ [ 5.25000012 15.35999985]
+ [ 1.37142863 15.35999985]
+ [ 1.37142863 15.35999985]]
+  Mean Distance Error (meters): 3.14995401181796
+  Prediction Time (s): 0.001998424530029297
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.9_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.59999975]
+ [ 9.30000019 17.59999975]]
+  Mean Distance Error (meters): 0.6957051442043025
+  Prediction Time (s): 0.0010538101196289062
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.8_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [10.2750001  17.39999962]
+ [10.2750001  17.39999962]
+ [10.2750001  17.39999962]]
+  Mean Distance Error (meters): 0.7495913493550717
+  Prediction Time (s): 0.0009229183197021484
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.7_DecisionTreeRegressor_coord:
+  Predictions: [[0.00000000e+00 0.00000000e+00]
+ [4.34782609e-03 0.00000000e+00]
+ [4.34782609e-03 0.00000000e+00]
+ ...
+ [1.12500000e+01 1.73999996e+01]
+ [1.12500000e+01 1.73999996e+01]
+ [1.12500000e+01 1.73999996e+01]]
+  Mean Distance Error (meters): 1.1992160691418536
+  Prediction Time (s): 0.0010902881622314453
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.6_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.00000000e+00  0.00000000e+00]
+ [ 0.00000000e+00 -1.66666667e-02]
+ [ 0.00000000e+00 -1.66666667e-02]
+ ...
+ [ 8.02499986e+00  1.58400002e+01]
+ [ 8.02499986e+00  1.73999996e+01]
+ [ 8.02499986e+00  1.73999996e+01]]
+  Mean Distance Error (meters): 1.3589466945069724
+  Prediction Time (s): 0.0020294189453125
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.5_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 8.04444457 18.625     ]
+ [ 9.30000019 17.27999954]
+ [ 9.30000019 17.27999954]]
+  Mean Distance Error (meters): 1.7144521829250323
+  Prediction Time (s): 0.0011162757873535156
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.4_DecisionTreeRegressor_coord:
+  Predictions: [[-0.13333334  0.        ]
+ [-0.13333334  4.76000015]
+ [-0.13333334  4.76000015]
+ ...
+ [ 8.04444457 17.88888889]
+ [ 6.02499986 16.38571396]
+ [ 6.02499986 16.38571396]]
+  Mean Distance Error (meters): 2.0423753129027076
+  Prediction Time (s): 0.002695798873901367
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.3_DecisionTreeRegressor_coord:
+  Predictions: [[-0.90233022  3.09999993]
+ [-0.90233022 20.4       ]
+ [-0.90233022 20.4       ]
+ ...
+ [ 9.30000019  8.79999987]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 2.423132646266646
+  Prediction Time (s): 0.0010960102081298828
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.2_DecisionTreeRegressor_coord:
+  Predictions: [[-0.96774197  0.30000001]
+ [-0.96774197 13.98333295]
+ [-0.96774197 13.98333295]
+ ...
+ [ 5.69999981  8.56249971]
+ [ 9.30000019 15.89999962]
+ [ 9.30000019 15.89999962]]
+  Mean Distance Error (meters): 2.70149209530647
+  Prediction Time (s): 0.0022716522216796875
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.1_DecisionTreeRegressor_coord:
+  Predictions: [[ 0.          0.60000002]
+ [-1.20000005 11.875     ]
+ [-1.20000005 11.875     ]
+ ...
+ [ 8.5250001   8.39999962]
+ [ 0.97500005 17.54999971]
+ [ 0.97500005 17.54999971]]
+  Mean Distance Error (meters): 3.1681182473952516
+  Prediction Time (s): 0.0010616779327392578
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.9_GradientBoostingRegressor_coord:
+  Predictions: [[ 0.05749969  0.10257127]
+ [-0.03039585 -0.0341554 ]
+ [-0.03039585 -0.0341554 ]
+ ...
+ [ 9.26213304 17.50046338]
+ [ 9.36503446 17.55033109]
+ [ 9.36503446 17.55033109]]
+  Mean Distance Error (meters): 0.6339234979744405
+  Prediction Time (s): 0.023677587509155273
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.8_GradientBoostingRegressor_coord:
+  Predictions: [[-1.36161631e-02  9.37323368e-02]
+ [-3.25222838e-02  3.02463745e-02]
+ [-3.25222838e-02  3.02463745e-02]
+ ...
+ [ 9.24669994e+00  1.77215504e+01]
+ [ 9.32153367e+00  1.74000956e+01]
+ [ 9.32153367e+00  1.74000956e+01]]
+  Mean Distance Error (meters): 0.7051601419574137
+  Prediction Time (s): 0.024706602096557617
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.7_GradientBoostingRegressor_coord:
+  Predictions: [[-1.75440387e-02  1.48647208e-01]
+ [-3.78000612e-02 -2.31013324e-02]
+ [-3.78000612e-02 -2.31013324e-02]
+ ...
+ [ 9.56491717e+00  1.80207976e+01]
+ [ 9.53623232e+00  1.76245847e+01]
+ [ 9.53623232e+00  1.76245847e+01]]
+  Mean Distance Error (meters): 0.8045411018100993
+  Prediction Time (s): 0.023589134216308594
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.6_GradientBoostingRegressor_coord:
+  Predictions: [[ 1.57780340e-02  1.57440551e-02]
+ [-3.08524780e-02  3.55781229e-02]
+ [-3.08524780e-02  3.55781229e-02]
+ ...
+ [ 7.22051285e+00  1.89244664e+01]
+ [ 9.56417245e+00  1.75594803e+01]
+ [ 9.56417245e+00  1.75594803e+01]]
+  Mean Distance Error (meters): 0.8050592828682189
+  Prediction Time (s): 0.0176846981048584
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_ml_0.5_GradientBoostingRegressor_coord:
+  Predictions: [[-0.07588062  0.14668077]
+ [-0.3391151   0.4750302 ]
+ [-0.3391151   0.4750302 ]
+ ...
+ [ 7.76488486 18.71641809]
+ [ 9.51653857 17.4816718 ]
+ [ 9.51653857 17.4816718 ]]
+  Mean Distance Error (meters): 1.0551903358400636
+  Prediction Time (s): 0.024031877517700195
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.4_GradientBoostingRegressor_coord:
+  Predictions: [[-4.33739883e-02  9.64597621e-02]
+ [ 7.93803500e-03  3.32627155e+00]
+ [ 7.93803500e-03  3.32627155e+00]
+ ...
+ [ 9.22297554e+00  1.96994844e+01]
+ [ 9.39502233e+00  1.75823441e+01]
+ [ 9.39502233e+00  1.75823441e+01]]
+  Mean Distance Error (meters): 1.2492406477176377
+  Prediction Time (s): 0.0240628719329834
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.3_GradientBoostingRegressor_coord:
+  Predictions: [[-0.04370083  0.04563589]
+ [-0.15549542  4.51569857]
+ [-0.15549542  4.51569857]
+ ...
+ [ 7.05619267 12.32326735]
+ [ 9.06959603 17.31934792]
+ [ 9.06959603 17.31934792]]
+  Mean Distance Error (meters): 1.5024378037536221
+  Prediction Time (s): 0.024963855743408203
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.2_GradientBoostingRegressor_coord:
+  Predictions: [[-0.16185256  0.10989146]
+ [-0.32719283  4.27666045]
+ [-0.32719283  4.27666045]
+ ...
+ [ 3.11701455 14.67201617]
+ [ 2.5989205  19.84475968]
+ [ 2.5989205  19.84475968]]
+  Mean Distance Error (meters): 1.8675660887424586
+  Prediction Time (s): 0.013001203536987305
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_ml_0.1_GradientBoostingRegressor_coord:
+  Predictions: [[-0.29584724  0.29824239]
+ [-0.45486774  9.96905545]
+ [-0.45486774  9.96905545]
+ ...
+ [ 0.30947974 12.95887844]
+ [ 1.15850853 16.75874319]
+ [ 1.15850853 16.75874319]]
+  Mean Distance Error (meters): 2.5718337846324952
+  Prediction Time (s): 0.015588760375976562
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_gan_0.9_GradientBoostingRegressor_coord:
+  Predictions: [[ 0.04716472 -0.02049176]
+ [-0.02905783  0.03105803]
+ [-0.02905783  0.03105803]
+ ...
+ [ 9.41708602 17.48302484]
+ [ 9.46731098 17.58274704]
+ [ 9.46731098 17.58274704]]
+  Mean Distance Error (meters): 0.6477912733632702
+  Prediction Time (s): 0.023978471755981445
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.8_GradientBoostingRegressor_coord:
+  Predictions: [[ 4.72745004e-02  1.67678034e-02]
+ [-2.05004089e-02 -2.66804063e-02]
+ [-2.05004089e-02 -2.66804063e-02]
+ ...
+ [ 9.31673043e+00  1.74746880e+01]
+ [ 9.34035106e+00  1.74828994e+01]
+ [ 9.34035106e+00  1.74828994e+01]]
+  Mean Distance Error (meters): 0.5272009903560811
+  Prediction Time (s): 0.02465653419494629
+  Memory Usage During Prediction (MB): 0.0078125
+Results for actual_gan_0.7_GradientBoostingRegressor_coord:
+  Predictions: [[ 0.06019422  0.03963794]
+ [ 0.0213528   0.08210385]
+ [ 0.0213528   0.08210385]
+ ...
+ [ 7.76819941 17.24562949]
+ [ 9.52829668 17.7667113 ]
+ [ 9.52829668 17.7667113 ]]
+  Mean Distance Error (meters): 0.8810247728176722
+  Prediction Time (s): 0.0241546630859375
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.6_GradientBoostingRegressor_coord:
+  Predictions: [[-4.81888727e-04  1.71107632e-01]
+ [-8.81445964e-02 -1.61078605e-02]
+ [-8.81445964e-02 -1.61078605e-02]
+ ...
+ [ 8.80967401e+00  1.79942836e+01]
+ [ 9.72952238e+00  1.77593359e+01]
+ [ 9.72952238e+00  1.77593359e+01]]
+  Mean Distance Error (meters): 1.0522590095666031
+  Prediction Time (s): 0.024711132049560547
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_gan_0.5_GradientBoostingRegressor_coord:
+  Predictions: [[-0.09250815  0.13460278]
+ [-0.63155799  1.69409559]
+ [-0.63155799  1.69409559]
+ ...
+ [ 8.29521453 17.43713499]
+ [ 9.08892735 17.60824304]
+ [ 9.08892735 17.60824304]]
+  Mean Distance Error (meters): 1.1888067767304626
+  Prediction Time (s): 0.0230252742767334
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.4_GradientBoostingRegressor_coord:
+  Predictions: [[-0.10753577  0.29614453]
+ [ 0.42406099  0.70734087]
+ [ 0.42406099  0.70734087]
+ ...
+ [ 6.98137723 18.13903455]
+ [ 9.54254065 18.03177844]
+ [ 9.54254065 18.03177844]]
+  Mean Distance Error (meters): 1.3868057695464384
+  Prediction Time (s): 0.02269124984741211
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_gan_0.3_GradientBoostingRegressor_coord:
+  Predictions: [[-0.11990251  0.20094391]
+ [-0.71556311 -0.03936197]
+ [-0.71556311 -0.03936197]
+ ...
+ [ 6.07493877 17.69154025]
+ [ 8.75210847 17.96246643]
+ [ 8.75210847 17.96246643]]
+  Mean Distance Error (meters): 1.5657944261374837
+  Prediction Time (s): 0.02198624610900879
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.2_GradientBoostingRegressor_coord:
+  Predictions: [[-0.29523555  0.23902403]
+ [-1.89698868  1.50550417]
+ [-1.89698868  1.50550417]
+ ...
+ [ 6.09945189 18.62355712]
+ [ 4.56407956 19.05545184]
+ [ 4.56407956 19.05545184]]
+  Mean Distance Error (meters): 1.8677103525942538
+  Prediction Time (s): 0.022064685821533203
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.1_GradientBoostingRegressor_coord:
+  Predictions: [[-0.168186    0.26230222]
+ [-2.13536317  7.85805929]
+ [-2.13536317  7.85805929]
+ ...
+ [ 2.69821755 21.39075976]
+ [ 2.88307443 21.63969911]
+ [ 2.88307443 21.63969911]]
+  Mean Distance Error (meters): 2.3998067368265272
+  Prediction Time (s): 0.02400040626525879
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.9_GradientBoostingRegressor_coord:
+  Predictions: [[ 0.08685527  0.03799313]
+ [-0.05270024 -0.04797545]
+ [-0.05270024 -0.04797545]
+ ...
+ [ 9.58793844 17.58716883]
+ [ 9.57190779 17.48015452]
+ [ 9.57190779 17.48015452]]
+  Mean Distance Error (meters): 0.6426190341024912
+  Prediction Time (s): 0.023600339889526367
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_ml_gan_0.8_GradientBoostingRegressor_coord:
+  Predictions: [[ 0.06956065  0.03689182]
+ [-0.05264417  0.04133169]
+ [-0.05264417  0.04133169]
+ ...
+ [ 9.23009201 17.54805328]
+ [ 9.46117907 17.41044211]
+ [ 9.46117907 17.41044211]]
+  Mean Distance Error (meters): 0.7084743956978062
+  Prediction Time (s): 0.02366042137145996
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.7_GradientBoostingRegressor_coord:
+  Predictions: [[-0.04156197 -0.05381602]
+ [-0.03604154  0.02258425]
+ [-0.03604154  0.02258425]
+ ...
+ [ 9.54226643 18.36276071]
+ [ 9.66564174 17.62752389]
+ [ 9.66564174 17.62752389]]
+  Mean Distance Error (meters): 0.7963958161583334
+  Prediction Time (s): 0.023755788803100586
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.6_GradientBoostingRegressor_coord:
+  Predictions: [[-3.66779786e-03  6.96828737e-02]
+ [-5.66858330e-02 -4.29078865e-02]
+ [-5.66858330e-02 -4.29078865e-02]
+ ...
+ [ 8.29334720e+00  1.86204005e+01]
+ [ 9.98473264e+00  1.73007255e+01]
+ [ 9.98473264e+00  1.73007255e+01]]
+  Mean Distance Error (meters): 0.9130157351265926
+  Prediction Time (s): 0.024588346481323242
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_ml_gan_0.5_GradientBoostingRegressor_coord:
+  Predictions: [[ 1.00308937e-02  1.40376850e-01]
+ [-5.93213398e-01  9.92441379e-01]
+ [-5.93213398e-01  9.92441379e-01]
+ ...
+ [ 9.26968319e+00  1.94364710e+01]
+ [ 9.90407905e+00  1.74431112e+01]
+ [ 9.90407905e+00  1.74431112e+01]]
+  Mean Distance Error (meters): 1.2226414166512645
+  Prediction Time (s): 0.016049861907958984
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_ml_gan_0.4_GradientBoostingRegressor_coord:
+  Predictions: [[-0.07286267  0.17318968]
+ [-0.15854533  0.88200658]
+ [-0.15854533  0.88200658]
+ ...
+ [ 9.72396061 19.39762609]
+ [ 9.67543514 17.52523822]
+ [ 9.67543514 17.52523822]]
+  Mean Distance Error (meters): 1.2401577314615162
+  Prediction Time (s): 0.023688554763793945
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.3_GradientBoostingRegressor_coord:
+  Predictions: [[-0.0484142   0.08192179]
+ [ 0.08052587  1.87861413]
+ [ 0.08052587  1.87861413]
+ ...
+ [ 6.13110891 11.36624483]
+ [ 8.97148364 17.46381585]
+ [ 8.97148364 17.46381585]]
+  Mean Distance Error (meters): 1.5092197166097217
+  Prediction Time (s): 0.023967266082763672
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_ml_gan_0.2_GradientBoostingRegressor_coord:
+  Predictions: [[-0.08987503  0.0485834 ]
+ [-0.19348119  5.19939437]
+ [-0.19348119  5.19939437]
+ ...
+ [ 3.74535212 13.28602526]
+ [ 3.24767954 17.36558746]
+ [ 3.24767954 17.36558746]]
+  Mean Distance Error (meters): 1.8237139631093524
+  Prediction Time (s): 0.023682832717895508
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.1_GradientBoostingRegressor_coord:
+  Predictions: [[-0.30197414  0.20691383]
+ [-1.31107221 10.40460314]
+ [-1.31107221 10.40460314]
+ ...
+ [ 2.29768511 13.60667028]
+ [ 2.15669802 16.2705163 ]
+ [ 2.15669802 16.2705163 ]]
+  Mean Distance Error (meters): 2.53366060499289
+  Prediction Time (s): 0.016018390655517578
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_ml_0.9_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.39516824099268966
+  Prediction Time (s): 0.21683144569396973
+  Memory Usage During Prediction (MB): 0.00390625
+Results for actual_ml_0.8_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.47753026729855474
+  Prediction Time (s): 0.21941566467285156
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.7_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 6.95228728 17.79128531]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.6056437327995224
+  Prediction Time (s): 0.24016213417053223
+  Memory Usage During Prediction (MB): 0.01171875
+Results for actual_ml_0.6_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 7.29344717 17.7344253 ]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.7390462342435211
+  Prediction Time (s): 0.21654248237609863
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.5_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.09959199  0.14004077]
+ [ 0.09959199  0.14004077]
+ ...
+ [ 7.50504967 17.61739846]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.9062933071411513
+  Prediction Time (s): 0.21800708770751953
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.4_KNeighborsRegressor_coord:
+  Predictions: [[ 0.00000000e+00  0.00000000e+00]
+ [-7.18544463e-02 -2.82159581e-05]
+ [-7.18544463e-02 -2.82159581e-05]
+ ...
+ [ 7.78734149e+00  1.76379020e+01]
+ [ 9.30000019e+00  1.73999996e+01]
+ [ 9.30000019e+00  1.73999996e+01]]
+  Mean Distance Error (meters): 1.1249883134686918
+  Prediction Time (s): 0.22205400466918945
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.3_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [-0.04066426  0.09991899]
+ [-0.04066426  0.09991899]
+ ...
+ [ 8.26727568 17.5921017 ]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 1.3773005271669956
+  Prediction Time (s): 0.23064708709716797
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.2_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [-0.11467648 -0.04215302]
+ [-0.11467648 -0.04215302]
+ ...
+ [ 7.38877463 17.72178805]
+ [ 7.43078828 17.71493302]
+ [ 7.43078828 17.71493302]]
+  Mean Distance Error (meters): 1.6599001934025925
+  Prediction Time (s): 0.21207642555236816
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_0.1_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [-0.21755831  0.11048569]
+ [-0.21755831  0.11048569]
+ ...
+ [ 7.51711003 17.61100967]
+ [ 5.54969993 17.02579144]
+ [ 5.54969993 17.02579144]]
+  Mean Distance Error (meters): 2.0899374101572206
+  Prediction Time (s): 0.20850825309753418
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.9_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.3972763149522223
+  Prediction Time (s): 0.21869897842407227
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.8_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.4972631379072214
+  Prediction Time (s): 0.21508264541625977
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.7_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 6.95228728 17.79128531]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.6197358176862099
+  Prediction Time (s): 0.21773195266723633
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.6_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 6.99307592 18.08298866]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.7787947871603716
+  Prediction Time (s): 0.21732020378112793
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.5_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [-0.98763664  1.65678769]
+ [-0.98763664  1.65678769]
+ ...
+ [ 7.19814742 18.85975889]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.9669102600487439
+  Prediction Time (s): 0.2112138271331787
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.4_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [-1.5029358   1.05620082]
+ [-1.5029358   1.05620082]
+ ...
+ [ 7.35130492 19.15024168]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 1.2134541600349824
+  Prediction Time (s): 0.20894956588745117
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.3_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [-1.86054809  1.17295259]
+ [-1.86054809  1.17295259]
+ ...
+ [ 7.30287116 19.07442964]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 1.5059168674772563
+  Prediction Time (s): 0.21595478057861328
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.2_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [-1.75246287  1.19760004]
+ [-1.75246287  1.19760004]
+ ...
+ [ 5.94051397 21.1271615 ]
+ [ 5.12224217 20.13943469]
+ [ 5.12224217 20.13943469]]
+  Mean Distance Error (meters): 1.877088256580915
+  Prediction Time (s): 0.21596121788024902
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_gan_0.1_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [-1.80531342  1.74882158]
+ [-1.80531342  1.74882158]
+ ...
+ [ 4.85293081 20.16390787]
+ [ 4.97635914 19.49037027]
+ [ 4.97635914 19.49037027]]
+  Mean Distance Error (meters): 2.4660205418197423
+  Prediction Time (s): 0.19504022598266602
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.9_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.3938906920522387
+  Prediction Time (s): 0.2150895595550537
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.8_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.4898444104271139
+  Prediction Time (s): 0.22025156021118164
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.7_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 6.95228728 17.79128531]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.6051975627510442
+  Prediction Time (s): 0.22108674049377441
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.6_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.          0.        ]
+ [ 0.          0.        ]
+ ...
+ [ 7.29344717 17.7344253 ]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.7385562176521616
+  Prediction Time (s): 0.2265491485595703
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.5_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.1190752   0.28023633]
+ [ 0.1190752   0.28023633]
+ ...
+ [ 7.55651539 17.63537777]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 0.9066638038764684
+  Prediction Time (s): 0.21547436714172363
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.4_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [-0.20006749  0.26673544]
+ [-0.20006749  0.26673544]
+ ...
+ [ 7.90909534 17.63181722]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 1.129455464529655
+  Prediction Time (s): 0.16962027549743652
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.3_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [-0.02050415  0.14037462]
+ [-0.02050415  0.14037462]
+ ...
+ [ 7.69051185 17.5151779 ]
+ [ 9.30000019 17.39999962]
+ [ 9.30000019 17.39999962]]
+  Mean Distance Error (meters): 1.3726497156420128
+  Prediction Time (s): 0.21166634559631348
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.2_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.17107831  0.18620512]
+ [ 0.17107831  0.18620512]
+ ...
+ [ 6.14874495 17.64336323]
+ [ 6.71840145 17.66060499]
+ [ 6.71840145 17.66060499]]
+  Mean Distance Error (meters): 1.6695155208368475
+  Prediction Time (s): 0.22067904472351074
+  Memory Usage During Prediction (MB): 0.0
+Results for actual_ml_gan_0.1_KNeighborsRegressor_coord:
+  Predictions: [[ 0.          0.        ]
+ [ 0.07057068  0.24300373]
+ [ 0.07057068  0.24300373]
+ ...
+ [ 6.77327271 17.57069239]
+ [ 6.77970619 17.57069311]
+ [ 6.77970619 17.57069311]]
+  Mean Distance Error (meters): 2.0961703220823305
+  Prediction Time (s): 0.20814895629882812
+  Memory Usage During Prediction (MB): 0.0
