@@ -11,9 +11,6 @@ This repository is part of an Indoor Positioning System (IPS) project that aims 
 - [Model Training](#model-training)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Prerequisites](#prerequisites)
-- [How to Run](#how-to-run)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
